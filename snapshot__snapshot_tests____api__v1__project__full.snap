@@ -1,0 +1,10 @@
+---
+source: repology-webapp/tests/snapshot_tests/mod.rs
+expression: snapshot
+snapshot_kind: text
+---
+Status: 200
+Header: content-type: application/json
+Header: content-length: 285
+---
+[{"repo":"repo","subrepo":"subrepo","srcname":"srcname","binname":"binname","visiblename":"visiblename","version":"1.0","origversion":"1.0_1","status":"newest","summary":"Summary","maintainers":["foo@example.com","bar@example.com"],"licenses":["GPLv2","GPLv3"],"categories":["games"]}]

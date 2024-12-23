@@ -1,0 +1,9 @@
+---
+source: repology-webapp/tests/snapshot_tests/mod.rs
+expression: snapshot
+snapshot_kind: text
+---
+Status: 302
+Header: location: /api/v1/project/zsh
+Header: content-length: 0
+---
