@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 3536
+Header: content-length: 3524
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -90,12 +90,9 @@ Header: content-length: 3536
 
 
 <pre>
-<time class="tzfix_time_sec"
-				datetime="2024-01-01T00:00:01+0000">2024-01-01 00:00:01</time> Hello, world!
-<span class="text-warning"><time class="tzfix_time_sec"
-				datetime="2024-01-01T00:00:02+0000">2024-01-01 00:00:02</time> Hello, world!
-</span><span class="text-danger"><time class="tzfix_time_sec"
-				datetime="2024-01-01T00:00:03+0000">2024-01-01 00:00:03</time> Hello, world!
+<time class="tzfix_time_sec" datetime="2024-01-01T00:00:01+0000">2024-01-01 00:00:01</time> Hello, world!
+<span class="text-warning"><time class="tzfix_time_sec" datetime="2024-01-01T00:00:02+0000">2024-01-01 00:00:02</time> Hello, world!
+</span><span class="text-danger"><time class="tzfix_time_sec" datetime="2024-01-01T00:00:03+0000">2024-01-01 00:00:03</time> Hello, world!
 </span></pre>
 
 </div>

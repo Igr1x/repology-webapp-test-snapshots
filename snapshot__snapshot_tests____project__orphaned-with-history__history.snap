@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 4380
+Header: content-length: 4376
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -103,8 +103,7 @@ removed from all repositories.</p>
 	</tr>
 
 	<tr>
-		<td class="minimal-column"><time class="tzfix_time"
-				datetime="2024-01-01T00:00+0000">2024-01-01 00:00</time></td>
+		<td class="minimal-column"><time class="tzfix_time" datetime="2024-01-01T00:00+0000">2024-01-01 00:00</time></td>
 		<td><b>
 			History ends, there are no longer packages for this project in any repositories known to repology, last repository was <a href="/repository/freebsd">FreeBSD</a>
 			

@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 5841
+Header: content-length: 5821
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -109,8 +109,7 @@ removed from all repositories.</p>
 	</tr>
 
 	<tr>
-		<td class="minimal-column"><time class="tzfix_time"
-				datetime="2024-01-01T00:00+0000">2024-01-01 00:00</time></td>
+		<td class="minimal-column"><time class="tzfix_time" datetime="2024-01-01T00:00+0000">2024-01-01 00:00</time></td>
 		<td><b>
 			History ends, there are no longer packages for this project in any repositories known to repology, last repositories were <a href="/repository/freebsd">FreeBSD</a>, <span class="legacy-repository">Ubuntu 10</span>, <a href="/repository/ubuntu_24">Ubuntu 24</a>
 			
@@ -118,14 +117,12 @@ removed from all repositories.</p>
 	</tr>
 
 	<tr>
-		<td class="minimal-column"><time class="tzfix_time"
-				datetime="2024-01-01T00:00+0000">2024-01-01 00:00</time></td>
+		<td class="minimal-column"><time class="tzfix_time" datetime="2024-01-01T00:00+0000">2024-01-01 00:00</time></td>
 		<td> <a href="/repository/ubuntu_24">Ubuntu 24</a> has caught up with the newest version</td>
 	</tr>
 
 	<tr>
-		<td class="minimal-column"><time class="tzfix_time"
-				datetime="2024-01-01T00:00+0000">2024-01-01 00:00</time></td>
+		<td class="minimal-column"><time class="tzfix_time" datetime="2024-01-01T00:00+0000">2024-01-01 00:00</time></td>
 		<td>Project
 				added to <a href="/repository/ubuntu_24">Ubuntu 24</a>, and
 				removed from <span class="legacy-repository">Ubuntu 10</span>
@@ -133,8 +130,7 @@ removed from all repositories.</p>
 	</tr>
 
 	<tr>
-		<td class="minimal-column"><time class="tzfix_time"
-				datetime="2024-01-01T00:00+0000">2024-01-01 00:00</time></td>
+		<td class="minimal-column"><time class="tzfix_time" datetime="2024-01-01T00:00+0000">2024-01-01 00:00</time></td>
 		<td><b>Newest version updated to
 					<span class="version version-big version-newest">1.1</span>
 					by <a href="/repository/freebsd">FreeBSD</a>
@@ -142,8 +138,7 @@ removed from all repositories.</p>
 	</tr>
 
 	<tr>
-		<td class="minimal-column"><time class="tzfix_time"
-				datetime="2024-01-01T00:00+0000">2024-01-01 00:00</time></td>
+		<td class="minimal-column"><time class="tzfix_time" datetime="2024-01-01T00:00+0000">2024-01-01 00:00</time></td>
 		<td><b>History start, latest version is
 				
 				

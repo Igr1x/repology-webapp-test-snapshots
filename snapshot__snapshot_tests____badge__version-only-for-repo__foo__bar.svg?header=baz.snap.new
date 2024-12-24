@@ -1,0 +1,10 @@
+---
+source: repology-webapp/tests/snapshot_tests/mod.rs
+assertion_line: 48
+expression: snapshot
+snapshot_kind: text
+---
+Status: 301
+Header: location: /badge/version-for-repo/foo/bar.svg?header=baz
+Header: content-length: 0
+---

@@ -1,11 +1,12 @@
 ---
 source: repology-webapp/tests/snapshot_tests/mod.rs
+assertion_line: 48
 expression: snapshot
 snapshot_kind: text
 ---
-Status: 404
+Status: 200
 Header: content-type: text/html
-Header: content-length: 4337
+Header: content-length: 5271
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -13,13 +14,14 @@ Header: content-length: 4337
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<meta name="description" content="Multiple package repositories analyzer">
+	<meta name="description" content="Feed for repository FreeBSD">
 	<meta name="keywords" content="repository, package, packages, version">
 	<meta name="author" content="Dmitry Marakasov">
 
-	<meta http-equiv="robots" content="noindex">
 
-	<title>Gone maintainer orphaned@example.com - Repology</title>
+	<link rel="alternate" href="/repository/freebsd/feed/atom" type="application/atom+xml" />
+
+	<title>Feed for FreeBSD - Repology</title>
 	<link rel="stylesheet" href="/static/bootstrap.min.v3.3.7.8dc6d358477be27a.css">
 	<link rel="stylesheet" href="/static/repology.v21.bb7b05a7b3bfbdb9.css">
 	<link rel="icon" href="/static/repology.v1.6108dff405ea1a42.ico" sizes="16x16 32x32 64x64" type="image/x-icon">
@@ -47,8 +49,8 @@ Header: content-length: 4337
 		<div class="collapse navbar-collapse" id="repology-navbar-collapse">
 			<ul class="nav navbar-nav">
 				<li><a href="/projects/">Projects</a></li>
-				<li class="active"><a href="/maintainers/">Maintainers</a></li>
-				<li><a href="/repositories/statistics">Repositories</a></li>
+				<li><a href="/maintainers/">Maintainers</a></li>
+				<li class="active"><a href="/repositories/statistics">Repositories</a></li>
 				<li><a href="/tools">Tools</a></li>
 				<li><a href="/security/recent-cves">Security</a></li>
 				
@@ -65,7 +67,7 @@ Header: content-length: 4337
 
 <div class="container">
 	
-	<h1 class="page-header">Gone maintainer <strong>orphaned@example.com</strong></h1>
+	<h1 class="page-header">Feed for <strong><a href="/repository/freebsd">FreeBSD</a></strong></h1>
 </div>
 
 
@@ -74,19 +76,88 @@ Header: content-length: 4337
 
 <div class="container">
 
-<div class="alert alert-warning" role="alert">
-	<p>Sorry, but Repology no longer knows maintainer <strong>orphaned@example.com</strong> since <time class="tzfix_time" datetime="2024-01-01T00:00+0000">2024-01-01 00:00</time><span class="tzfix_zone"> (UTC)</span> (11 months ago).</p>
-	<p>Some of the reasons which may have caused this:</p>
-	<ul>
-		<li>The maintainer no longer maintains any packages.</li>
-		<li>The maintainer obfuscates his email in package metadata, so repology cannot parse it.</li>
-		<li>The maintainer opted out from repology processing and was manually blacklisted.</li>
-		<li>The maintainer opted to merge this entry into another one.</li>
-		<li>Repology no longer supports any repositories this maintainer is active in. Check <a href="/repositories/statistics">the list</a>.</li>
-		<li>The maintainer identifier (email) is misspelled, or have changed. Try <a href="/maintainers/">searching</a>. It is quite common for only domain part to change.</li>
-		<li>Repology is no longer able to parse maintainer information for repositories this maintainer is active in. Check <a href="/repositories/fields">repository support table</a>. This can be fixed if repositories in question setup a more complete dump of information on their packages.</li>
-	</ul>
-</div>
+<p>This feed is also available in <a href="/repository/freebsd/feed/atom">atom<img src="/static/feed.v1.210d8fdde71150a5.svg" width="16" height="16" alt="Atom feed"></a> format</p>
+
+<p>
+		<a href="/repository/freebsd/feed?autorefresh=1" rel="nofollow">Enable</a> autorefresh.</p>
+
+
+<table class="table table-striped">
+	<tr>
+		<th class="text-center">Date<span class="tzfix_zone"> (UTC)</span></th>
+		<th class="text-center">Event</th>
+	</tr>
+	
+	<tr>
+		<td class="minimal-column"><time class="tzfix_time" datetime="2124-01-01T00:00+0000">2124-01-01 00:00</time></td>
+		<td>
+			<a href="/project/zsh/versions">zsh</a>
+			
+			was removed from <strong><a href="/repository/freebsd">FreeBSD</a></strong>
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="minimal-column"><time class="tzfix_time" datetime="2124-01-01T00:00+0000">2124-01-01 00:00</time></td>
+		<td>
+			<a href="/project/zsh/versions">zsh</a>
+			
+			<span class="version version-ignored">666</span> is ignored
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="minimal-column"><time class="tzfix_time" datetime="2124-01-01T00:00+0000">2124-01-01 00:00</time></td>
+		<td>
+			<a href="/project/zsh/versions">zsh</a>
+			
+			<span class="version version-outdated">222</span> is outdated
+			by
+				
+				<span class="version version-newest">333</span>
+				
+				<span class="version version-newest">444</span>
+				
+			
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="minimal-column"><time class="tzfix_time" datetime="2124-01-01T00:00+0000">2124-01-01 00:00</time></td>
+		<td>
+			<a href="/project/zsh/versions">zsh</a>
+			
+			<span class="version version-outdated">555</span> is outdated
+			
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="minimal-column"><time class="tzfix_time" datetime="2124-01-01T00:00+0000">2124-01-01 00:00</time></td>
+		<td>
+			<a href="/project/zsh/versions">zsh</a>
+			
+			<span class="version version-newest">111</span> is now up to date
+			
+		</td>
+	</tr>
+	
+	<tr>
+		<td class="minimal-column"><time class="tzfix_time" datetime="2124-01-01T00:00+0000">2124-01-01 00:00</time></td>
+		<td>
+			<a href="/project/zsh/versions">zsh</a>
+			
+			was added to <strong><a href="/repository/freebsd">FreeBSD</a></strong>
+			
+		</td>
+	</tr>
+	
+</table>
+
 
 </div>
 

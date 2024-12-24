@@ -1,5 +1,6 @@
 ---
 source: repology-webapp/tests/snapshot_tests/mod.rs
+assertion_line: 48
 expression: snapshot
 snapshot_kind: text
 ---

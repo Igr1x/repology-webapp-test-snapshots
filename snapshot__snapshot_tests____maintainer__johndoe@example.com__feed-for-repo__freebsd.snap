@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 5763
+Header: content-length: 5739
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -90,8 +90,7 @@ in <strong><a href="/repository/freebsd">FreeBSD</a></strong>
 	</tr>
 	
 	<tr>
-		<td class="minimal-column"><time class="tzfix_time"
-				datetime="2124-01-01T00:00+0000">2124-01-01 00:00</time></td>
+		<td class="minimal-column"><time class="tzfix_time" datetime="2124-01-01T00:00+0000">2124-01-01 00:00</time></td>
 		<td>
 			<a href="/project/zsh/versions">zsh</a>
 			
@@ -102,8 +101,7 @@ in <strong><a href="/repository/freebsd">FreeBSD</a></strong>
 	</tr>
 	
 	<tr>
-		<td class="minimal-column"><time class="tzfix_time"
-				datetime="2124-01-01T00:00+0000">2124-01-01 00:00</time></td>
+		<td class="minimal-column"><time class="tzfix_time" datetime="2124-01-01T00:00+0000">2124-01-01 00:00</time></td>
 		<td>
 			<a href="/project/zsh/versions">zsh</a>
 			
@@ -113,8 +111,7 @@ in <strong><a href="/repository/freebsd">FreeBSD</a></strong>
 	</tr>
 	
 	<tr>
-		<td class="minimal-column"><time class="tzfix_time"
-				datetime="2124-01-01T00:00+0000">2124-01-01 00:00</time></td>
+		<td class="minimal-column"><time class="tzfix_time" datetime="2124-01-01T00:00+0000">2124-01-01 00:00</time></td>
 		<td>
 			<a href="/project/zsh/versions">zsh</a>
 			
@@ -131,8 +128,7 @@ in <strong><a href="/repository/freebsd">FreeBSD</a></strong>
 	</tr>
 	
 	<tr>
-		<td class="minimal-column"><time class="tzfix_time"
-				datetime="2124-01-01T00:00+0000">2124-01-01 00:00</time></td>
+		<td class="minimal-column"><time class="tzfix_time" datetime="2124-01-01T00:00+0000">2124-01-01 00:00</time></td>
 		<td>
 			<a href="/project/zsh/versions">zsh</a>
 			
@@ -143,8 +139,7 @@ in <strong><a href="/repository/freebsd">FreeBSD</a></strong>
 	</tr>
 	
 	<tr>
-		<td class="minimal-column"><time class="tzfix_time"
-				datetime="2124-01-01T00:00+0000">2124-01-01 00:00</time></td>
+		<td class="minimal-column"><time class="tzfix_time" datetime="2124-01-01T00:00+0000">2124-01-01 00:00</time></td>
 		<td>
 			<a href="/project/zsh/versions">zsh</a>
 			
@@ -154,8 +149,7 @@ in <strong><a href="/repository/freebsd">FreeBSD</a></strong>
 	</tr>
 	
 	<tr>
-		<td class="minimal-column"><time class="tzfix_time"
-				datetime="2124-01-01T00:00+0000">2124-01-01 00:00</time></td>
+		<td class="minimal-column"><time class="tzfix_time" datetime="2124-01-01T00:00+0000">2124-01-01 00:00</time></td>
 		<td>
 			<a href="/project/zsh/versions">zsh</a>
 			
