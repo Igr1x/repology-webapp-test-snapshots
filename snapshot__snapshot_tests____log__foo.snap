@@ -5,6 +5,6 @@ snapshot_kind: text
 ---
 Status: 400
 Header: content-type: text/plain; charset=utf-8
-Header: content-length: 44
+Header: content-length: 42
 ---
-Invalid URL: Cannot parse `"foo"` to a `u64`
+Invalid URL: Cannot parse `foo` to a `u64`
