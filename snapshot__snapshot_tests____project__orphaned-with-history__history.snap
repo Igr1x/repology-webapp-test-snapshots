@@ -1,11 +1,11 @@
 ---
 source: repology-webapp/tests/snapshot_tests/mod.rs
-expression: snapshot
+expression: "Request::new(pool, uri).perform().await.as_snapshot().unwrap()"
 snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 4376
+Header: content-length: 4378
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -83,6 +83,8 @@ Header: content-length: 4376
 
 
 <div class="container">
+
+
 
 <p>Please note that this history is still an experimental feature
 and may be reset at any time.</p>
