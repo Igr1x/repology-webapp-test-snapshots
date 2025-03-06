@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 9482
+Header: content-length: 9637
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -199,7 +199,7 @@ and then replace <code>/projects/</code> URL prefix with
 /api/v1/maintainer/ports%40freebsd.org/problems-for-repo/freebsd
 </pre>
 
-Output is an array of entries of the following format:
+<p>Output is an array of entries of the following format:</p>
 
 <pre>
 {
@@ -227,6 +227,8 @@ Output is an array of entries of the following format:
 	<dt>binname</dt><dd>repository (binary) package name</dd>
 	<dt>rawversion</dt><dd>repository package version</dd>
 </dl>
+
+<p>This API returns limited number of problems and supports pagination by project name via <code>?start=&lt;project_name&gt;</code> parameter.</p>
 
 </article>
 
