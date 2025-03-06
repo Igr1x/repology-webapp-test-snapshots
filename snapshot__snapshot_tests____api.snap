@@ -1,6 +1,6 @@
 ---
 source: repology-webapp/tests/snapshot_tests/mod.rs
-expression: snapshot
+expression: "Request::new(pool, uri).perform().await.as_snapshot().unwrap()"
 snapshot_kind: text
 ---
 Status: 200
@@ -208,25 +208,24 @@ Output is an array of entries of the following format:
         "url": "http://artax.karlin.mff.cuni.cz/~brain/0verkill/",
         "code": 500
     },
-    ...
-    "repo": "freebsd",
-    "srcname": "games/0verkill",
-    "binname": "0verkill",
-    "rawversion": "0.16_2",
-    "maintainers": [
-        "mich@freebsd.org"
-    ],
-    "effname": "0verkill",
+    "project_name": "0verkill",
     "version": "0.16",
-    ...
+
+    "binname": "0verkill",
+    "srcname": "games/0verkill",
+    "rawversion": "0.16_2"
 }
 </pre>
 
 <p>Fields are:</p>
 <dl class="dl-horizontal">
-	<dt>type</dt><dd>problem type string constant</dd>
-	<dt>data</dt><dd>additional details on the problem in the form of JSON dictionary</dd>
-	<dt>*</dt><dd>unspecified set of internal fields for package which generated this problem. You may use some of them to identify the package, but they may change in the future</dd>
+	<dt>type</dt><dd>problem type (string constant)</dd>
+	<dt>data</dt><dd>additional details on the problem (dict)</dd>
+	<dt>project_name</dt><dd>Repology project name</dd>
+	<dt>version</dt><dd>normalized version as used by Repology</dd>
+	<dt>srcname</dt><dd>repository (source) package name</dd>
+	<dt>binname</dt><dd>repository (binary) package name</dd>
+	<dt>rawversion</dt><dd>repository package version</dd>
 </dl>
 
 </article>
