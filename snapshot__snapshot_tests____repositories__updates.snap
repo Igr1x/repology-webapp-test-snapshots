@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 5451
+Header: content-length: 5441
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -77,8 +77,6 @@ Header: content-length: 5451
 
 
 
-
-
 <div class="container">
 
 <p>A brief explanation of update process: each repository is updated in two phases: <em>fetch</em> (⬊), which only involves downloading new data, then <em>parse</em> (⬈), which involves converting upstream format into Repology packages and applying transformation rules. Each phase may fail independently. Also, fetch phase may return no new data (⬂) (e.g. HTTP 403 not modified, no new git commits etc.), in which case parse phase may be skipped as long as the ruleset hasn't changed either. Note that actual database update happens only after trying to fetch and parse all the repositories, so there's additional delay between times shown on this page and actual website update.</p>
@@ -140,9 +138,7 @@ Header: content-length: 5451
 	<div class="container">
 		<p class="pull-right footer-links">
 			GitHub repositories:
-			
 			<a href="https://github.com/repology/repology-rs/tree/master/repology-webapp">webapp</a>,
-			
 			<a href="https://github.com/repology/repology-updater">updater</a>,
 			<a href="https://github.com/repology/repology-rules">ruleset</a>
 		</p>

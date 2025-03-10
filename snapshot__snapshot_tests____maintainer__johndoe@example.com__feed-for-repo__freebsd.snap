@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 5734
+Header: content-length: 5724
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -69,8 +69,6 @@ Header: content-length: 5734
 in <strong><a href="/repository/freebsd">FreeBSD</a></strong>
 </h1>
 </div>
-
-
 
 
 
@@ -168,9 +166,7 @@ in <strong><a href="/repository/freebsd">FreeBSD</a></strong>
 	<div class="container">
 		<p class="pull-right footer-links">
 			GitHub repositories:
-			
 			<a href="https://github.com/repology/repology-rs/tree/master/repology-webapp">webapp</a>,
-			
 			<a href="https://github.com/repology/repology-updater">updater</a>,
 			<a href="https://github.com/repology/repology-rules">ruleset</a>
 		</p>

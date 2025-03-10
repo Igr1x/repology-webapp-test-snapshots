@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 400
 Header: content-type: text/html
-Header: content-length: 3474
+Header: content-length: 3464
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -69,8 +69,6 @@ Header: content-length: 3474
 
 
 
-
-
 <div class="container">
 <div class="alert alert-danger" role="alert">
 	<p>This link was supposed to redirect you to Repology project corresponding to
@@ -100,9 +98,7 @@ Header: content-length: 3474
 	<div class="container">
 		<p class="pull-right footer-links">
 			GitHub repositories:
-			
 			<a href="https://github.com/repology/repology-rs/tree/master/repology-webapp">webapp</a>,
-			
 			<a href="https://github.com/repology/repology-updater">updater</a>,
 			<a href="https://github.com/repology/repology-rules">ruleset</a>
 		</p>

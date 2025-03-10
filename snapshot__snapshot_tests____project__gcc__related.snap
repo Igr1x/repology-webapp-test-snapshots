@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 7062
+Header: content-length: 7052
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -83,8 +83,6 @@ Header: content-length: 7062
 
 	<h1 class="page-header">Related for <strong>gcc</strong></h1>
 </div>
-
-
 
 
 
@@ -184,9 +182,7 @@ Header: content-length: 7062
 	<div class="container">
 		<p class="pull-right footer-links">
 			GitHub repositories:
-			
 			<a href="https://github.com/repology/repology-rs/tree/master/repology-webapp">webapp</a>,
-			
 			<a href="https://github.com/repology/repology-updater">updater</a>,
 			<a href="https://github.com/repology/repology-rules">ruleset</a>
 		</p>

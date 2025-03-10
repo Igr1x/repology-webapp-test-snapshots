@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 9632
+Header: content-length: 9622
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -65,8 +65,6 @@ Header: content-length: 9632
 	
 	<h1 class="page-header">API</h1>
 </div>
-
-
 
 
 
@@ -238,9 +236,7 @@ and then replace <code>/projects/</code> URL prefix with
 	<div class="container">
 		<p class="pull-right footer-links">
 			GitHub repositories:
-			
 			<a href="https://github.com/repology/repology-rs/tree/master/repology-webapp">webapp</a>,
-			
 			<a href="https://github.com/repology/repology-updater">updater</a>,
 			<a href="https://github.com/repology/repology-rules">ruleset</a>
 		</p>
