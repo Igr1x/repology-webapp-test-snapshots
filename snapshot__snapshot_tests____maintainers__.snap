@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 8621
+Header: content-length: 8645
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -137,7 +137,7 @@ Header: content-length: 8621
 			</td><td class="text-center total-cell">
 				<a href="/projects/?maintainer=active%40example.com">10</a>
 			</td>
-			<td class="text-center">a second</td>
+			<td class="text-center">more than a year</td>
 		</tr>
 	
 		<tr>
@@ -164,7 +164,7 @@ Header: content-length: 8621
 			</td><td class="text-center total-cell">
 				<a href="/projects/?maintainer=fallback-mnt-foo%40repology">1</a>
 			</td>
-			<td class="text-center">a second</td>
+			<td class="text-center">more than a year</td>
 		</tr>
 	
 		<tr>
@@ -191,7 +191,7 @@ Header: content-length: 8621
 			</td><td class="text-center total-cell">
 				<a href="/projects/?maintainer=no-vuln-column%40example.com">10</a>
 			</td>
-			<td class="text-center">a second</td>
+			<td class="text-center">more than a year</td>
 		</tr>
 	
 	</tbody>
