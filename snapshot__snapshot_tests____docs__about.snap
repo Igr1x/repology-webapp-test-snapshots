@@ -1,11 +1,11 @@
 ---
 source: repology-webapp/tests/snapshot_tests/mod.rs
-expression: snapshot
+expression: "Request::new(pool, uri).perform().await.as_snapshot().unwrap()"
 snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 10312
+Header: content-length: 10307
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -50,7 +50,6 @@ Header: content-length: 10312
 				<li><a href="/repositories/statistics">Repositories</a></li>
 				<li><a href="/tools">Tools</a></li>
 				<li><a href="/security/recent-cves">Security</a></li>
-				
 			</ul>
 			<ul class="nav navbar-nav navbar-right">
 				

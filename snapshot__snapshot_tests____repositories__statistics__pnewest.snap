@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 11804
+Header: content-length: 11799
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -51,7 +51,6 @@ Header: content-length: 11804
 				<li class="active"><a href="/repositories/statistics">Repositories</a></li>
 				<li><a href="/tools">Tools</a></li>
 				<li><a href="/security/recent-cves">Security</a></li>
-				
 			</ul>
 			<ul class="nav navbar-nav navbar-right">
 				
