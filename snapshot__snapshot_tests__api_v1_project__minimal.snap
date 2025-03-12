@@ -1,7 +1,6 @@
 ---
-source: repology-webapp/tests/snapshot_tests/mod.rs
-expression: snapshot
-snapshot_kind: text
+source: repology-webapp/tests/snapshot_tests/api_v1_project.rs
+expression: response.as_snapshot().unwrap()
 ---
 Status: 200
 Header: content-type: application/json
