@@ -1,10 +1,11 @@
 ---
 source: repology-webapp/tests/snapshot_tests/tool_project_by.rs
 expression: response.as_snapshot().unwrap()
+snapshot_kind: text
 ---
 Status: 400
 Header: content-type: text/html
-Header: content-length: 3416
+Header: content-length: 3411
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -52,7 +53,6 @@ Header: content-length: 3416
 				<li><a href="/security/recent-cves">Security</a></li>
 			</ul>
 			<ul class="nav navbar-nav navbar-right">
-				
 				<li><a href="/news">News</a></li>
 				<li><a href="/docs">Docs</a></li>
 			</ul>
