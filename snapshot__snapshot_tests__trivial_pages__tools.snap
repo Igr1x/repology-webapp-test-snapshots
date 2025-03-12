@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 3234
+Header: content-length: 3347
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -72,6 +72,7 @@ Header: content-length: 3234
 <ul>
 	<li><a href="/tools/project-by">Project by package name</a> - generate link to Repology project pages and badges by given package name in specific repository</li>
 	<li><a href="/tools/trending">Trending and declining projects</a> - list of projects added to or removed from a lot of repositories recently</li>
+	<li><a href="/tools/important-updates">Important updates</a> - new releases of most widely spread projects</li>
 </ul>
 
 </div>
