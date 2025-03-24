@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 15724
+Header: content-length: 15704
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -281,8 +281,8 @@ and be maintained for at least half a year.
 		</p>
 		<p>
 			Copyright (C) 2016-2025 Dmitry Marakasov<br>
-			Code licensed under GPLv3+.<br>
-			Powered by Rust.
+			Code licensed under GPLv3+.
+			
 		</p>
 	</div>
 </footer>

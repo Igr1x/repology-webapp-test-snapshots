@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 6470
+Header: content-length: 6450
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -175,8 +175,8 @@ Also note that you may add additional parameters to a URL, such as
 		</p>
 		<p>
 			Copyright (C) 2016-2025 Dmitry Marakasov<br>
-			Code licensed under GPLv3+.<br>
-			Powered by Rust.
+			Code licensed under GPLv3+.
+			
 		</p>
 	</div>
 </footer>

@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 300
 Header: content-type: text/html
-Header: content-length: 3324
+Header: content-length: 3304
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -91,8 +91,8 @@ Header: content-length: 3324
 		</p>
 		<p>
 			Copyright (C) 2016-2025 Dmitry Marakasov<br>
-			Code licensed under GPLv3+.<br>
-			Powered by Rust.
+			Code licensed under GPLv3+.
+			
 		</p>
 	</div>
 </footer>

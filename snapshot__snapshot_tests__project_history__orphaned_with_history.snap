@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 4358
+Header: content-length: 4338
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -122,8 +122,8 @@ removed from all repositories.</p>
 		</p>
 		<p>
 			Copyright (C) 2016-2025 Dmitry Marakasov<br>
-			Code licensed under GPLv3+.<br>
-			Powered by Rust.
+			Code licensed under GPLv3+.
+			
 		</p>
 	</div>
 </footer>

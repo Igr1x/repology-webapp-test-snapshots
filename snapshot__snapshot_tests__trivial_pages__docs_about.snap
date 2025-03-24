@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 10292
+Header: content-length: 10272
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -197,8 +197,8 @@ general algorithm, and each package is classified by its version.</p>
 		</p>
 		<p>
 			Copyright (C) 2016-2025 Dmitry Marakasov<br>
-			Code licensed under GPLv3+.<br>
-			Powered by Rust.
+			Code licensed under GPLv3+.
+			
 		</p>
 	</div>
 </footer>

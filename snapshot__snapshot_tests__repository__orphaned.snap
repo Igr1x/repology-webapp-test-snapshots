@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 404
 Header: content-type: text/html
-Header: content-length: 3920
+Header: content-length: 3900
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -93,8 +93,8 @@ Header: content-length: 3920
 		</p>
 		<p>
 			Copyright (C) 2016-2025 Dmitry Marakasov<br>
-			Code licensed under GPLv3+.<br>
-			Powered by Rust.
+			Code licensed under GPLv3+.
+			
 		</p>
 	</div>
 </footer>
