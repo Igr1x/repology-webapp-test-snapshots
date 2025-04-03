@@ -115,7 +115,7 @@ Header: content-length: 8287
 	
 	
 		<li class="list-group-item break-word"><b>Comment:</b><br>
-			&lt;a href=&quot;malicious&quot;&gt;
+			&#60;a href=&#34;malicious&#34;&#62;
 		</li>
 	
 	

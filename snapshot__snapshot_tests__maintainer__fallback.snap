@@ -104,38 +104,38 @@ Header: content-length: 8621
 				<a href="/repository/freebsd">FreeBSD</a>
 			</td>
 			<td class="text-center total-cell">
-				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&amp;inrepo=freebsd">1</a>
+				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&#38;inrepo=freebsd">1</a>
 			</td>
 			<td class="text-center total-cell">
-				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&amp;inrepo=freebsd">1</a>
+				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&#38;inrepo=freebsd">1</a>
 			</td><td class="text-center version-cell version-big version-newest">
-				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&amp;inrepo=freebsd&amp;newest=1">1</a>
+				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&#38;inrepo=freebsd&#38;newest=1">1</a>
 			</td>
 			<td class="text-center version-cell version-big version-newest">
-				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&amp;inrepo=freebsd&amp;newest=1">100.0%</a>
+				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&#38;inrepo=freebsd&#38;newest=1">100.0%</a>
 			</td><td class="text-center version-cell version-big version-outdated">
-				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&amp;inrepo=freebsd&amp;outdated=1">1</a>
+				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&#38;inrepo=freebsd&#38;outdated=1">1</a>
 			</td>
 			<td class="text-center version-cell version-big version-outdated">
-				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&amp;inrepo=freebsd&amp;outdated=1">100.0%</a>
+				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&#38;inrepo=freebsd&#38;outdated=1">100.0%</a>
 			</td><td class="text-center version-cell version-big version-ignored">
-				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&amp;inrepo=freebsd&amp;problematic=1">1</a>
+				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&#38;inrepo=freebsd&#38;problematic=1">1</a>
 			</td>
 			<td class="text-center version-cell version-big version-ignored">
-				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&amp;inrepo=freebsd&amp;problematic=1">100.0%</a>
+				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&#38;inrepo=freebsd&#38;problematic=1">100.0%</a>
 			</td><td class="text-center vulnerable-cell">
-				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&amp;inrepo=freebsd&amp;vulnerable=1">1</a>
+				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&#38;inrepo=freebsd&#38;vulnerable=1">1</a>
 			</td>
 			<td class="text-center vulnerable-cell">
-				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&amp;inrepo=freebsd&amp;vulnerable=1">100.00%</a>
+				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&#38;inrepo=freebsd&#38;vulnerable=1">100.00%</a>
 			</td><td class="text-center">
-				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&amp;inrepo=freebsd&amp;outdated=1&amp;families_newest=2-"
+				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&#38;inrepo=freebsd&#38;outdated=1&#38;families_newest=2-"
 					title="High confidence (newest in 2 or more other repository families) outdated packages">HCO</a>
-				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&amp;inrepo=freebsd&amp;newest=1&amp;families_newest=1"
+				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&#38;inrepo=freebsd&#38;newest=1&#38;families_newest=1"
 					title="Lone (not present in other repository families, so may be either very fresh or incorrect) newest versions">LN</a>
-				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&amp;inrepo=freebsd&amp;has_related=1"
+				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&#38;inrepo=freebsd&#38;has_related=1"
 					title="Packages which have related ones (may require merging)">∗</a>
-				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&amp;inrepo=freebsd&amp;families=1"
+				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&#38;inrepo=freebsd&#38;families=1"
 					title="Unique packages (not present in other repository families)">U</a>
 				<a href="/maintainer/fallback-mnt-foo%40repology/problems-for-repo/freebsd">Problems</a>
 			</td>
@@ -154,13 +154,13 @@ Header: content-length: 8621
 			<td class="text-center total-cell">
 				<a href="/projects/?maintainer=fallback-mnt-foo%40repology">1</a>
 			</td><td class="text-center" colspan="2">-</td><td class="text-center" colspan="2">-</td><td class="text-center" colspan="2">-</td><td class="text-center" colspan="2">-</td><td class="text-center">
-				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&amp;outdated=1&amp;families_newest=2-"
+				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&#38;outdated=1&#38;families_newest=2-"
 					title="High confidence (newest in 2 or more other repository families) outdated packages">HCO</a>
-				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&amp;newest=1&amp;families_newest=1"
+				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&#38;newest=1&#38;families_newest=1"
 					title="Lone (not present in other repository families) newest versions">LN</a>
-				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&amp;has_related=1"
+				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&#38;has_related=1"
 					title="Packages which have related ones (may require merging)">∗</a>
-				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&amp;families=1"
+				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&#38;families=1"
 					title="Unique packages (not present in other repository families)">U</a>
 			</td>
 			<td class="text-center"></td>
@@ -176,7 +176,7 @@ Header: content-length: 8621
 <ul>
 	
 	<li>
-		<strong>games</strong> (<a href="/projects/?maintainer=fallback-mnt-foo%40repology&amp;category=games">10</a>)
+		<strong>games</strong> (<a href="/projects/?maintainer=fallback-mnt-foo%40repology&#38;category=games">10</a>)
 	</li>
 	
 </ul>

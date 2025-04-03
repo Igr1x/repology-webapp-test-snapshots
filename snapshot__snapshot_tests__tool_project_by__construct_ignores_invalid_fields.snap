@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 6450
+Header: content-length: 6474
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -119,27 +119,27 @@ Also note that you may add additional parameters to a URL, such as
 		<div class="col-sm-8">
 			<select class="form-control" id="target_page" name="target_page">
 			
-				<option value="project_versions">Project versions — /project/&lt;name&gt;/versions</option>
+				<option value="project_versions">Project versions — /project/&#60;name&#62;/versions</option>
 			
-				<option value="project_packages">Project packages — /project/&lt;name&gt;/packages</option>
+				<option value="project_packages">Project packages — /project/&#60;name&#62;/packages</option>
 			
-				<option value="project_information">Project information — /project/&lt;name&gt;/information</option>
+				<option value="project_information">Project information — /project/&#60;name&#62;/information</option>
 			
-				<option value="project_history">Project history — /project/&lt;name&gt;/history</option>
+				<option value="project_history">Project history — /project/&#60;name&#62;/history</option>
 			
-				<option value="project_badges">Project badges — /project/&lt;name&gt;/badges</option>
+				<option value="project_badges">Project badges — /project/&#60;name&#62;/badges</option>
 			
-				<option value="project_reports">Project reports — /project/&lt;name&gt;/reports</option>
+				<option value="project_reports">Project reports — /project/&#60;name&#62;/reports</option>
 			
-				<option value="badge_vertical_allrepos">Vertical badge — /badge/vertical-allrepos/&lt;name&gt;.svg</option>
+				<option value="badge_vertical_allrepos">Vertical badge — /badge/vertical-allrepos/&#60;name&#62;.svg</option>
 			
-				<option value="badge_tiny_repos">Tiny badge with number of repositories — /badge/tiny-repos/&lt;name&gt;.svg</option>
+				<option value="badge_tiny_repos">Tiny badge with number of repositories — /badge/tiny-repos/&#60;name&#62;.svg</option>
 			
-				<option value="badge_latest_versions">Tiny badge with latest packaged version(s) — /badge/tiny-versions/&lt;name&gt;.svg</option>
+				<option value="badge_latest_versions">Tiny badge with latest packaged version(s) — /badge/tiny-versions/&#60;name&#62;.svg</option>
 			
-				<option value="badge_version_for_repo">Tiny badge with version for this repository — /badge/version-for-repo/&lt;repo&gt;/&lt;name&gt;.svg</option>
+				<option value="badge_version_for_repo">Tiny badge with version for this repository — /badge/version-for-repo/&#60;repo&#62;/&#60;name&#62;.svg</option>
 			
-				<option value="api_v1_project">API v1 project information — /api/v1/project/&lt;name&gt;</option>
+				<option value="api_v1_project">API v1 project information — /api/v1/project/&#60;name&#62;</option>
 			
 			</select>
 		</div>

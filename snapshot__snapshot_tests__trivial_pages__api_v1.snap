@@ -184,7 +184,7 @@ and then replace <code>/projects/</code> URL prefix with
 
 <p>Example: get unique outdated projects not present in FreeBSD maintainer by foo@bar.com</p>
 <pre>
-/api/v1/projects/?notinrepo=freebsd&amp;maintainer=foo%40bar.com&amp;families=1&amp;outdated=1
+/api/v1/projects/?notinrepo=freebsd&#38;maintainer=foo%40bar.com&#38;families=1&#38;outdated=1
 </pre>
 
 <h3>Problems</h3>

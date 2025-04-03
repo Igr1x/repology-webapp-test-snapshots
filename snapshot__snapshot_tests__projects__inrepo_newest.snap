@@ -202,120 +202,120 @@ Header: content-length: 16429
 		
 		<li>
 		
-			<a href="/projects/..pkg_1224_newest_12/?inrepo=ubuntu_12&amp;newest=1" rel="prev">&laquo;</a>
+			<a href="/projects/..pkg_1224_newest_12/?inrepo=ubuntu_12&#38;newest=1" rel="prev">&laquo;</a>
 		
 		</li>
-		<li><a href="/projects/?inrepo=ubuntu_12&amp;newest=1">0-9</a></li>
+		<li><a href="/projects/?inrepo=ubuntu_12&#38;newest=1">0-9</a></li>
 		
 		<li>
-				<a href="/projects/a/?inrepo=ubuntu_12&amp;newest=1">A</a>
-		</li>
-		
-		<li>
-				<a href="/projects/b/?inrepo=ubuntu_12&amp;newest=1">B</a>
+				<a href="/projects/a/?inrepo=ubuntu_12&#38;newest=1">A</a>
 		</li>
 		
 		<li>
-				<a href="/projects/c/?inrepo=ubuntu_12&amp;newest=1">C</a>
+				<a href="/projects/b/?inrepo=ubuntu_12&#38;newest=1">B</a>
 		</li>
 		
 		<li>
-				<a href="/projects/d/?inrepo=ubuntu_12&amp;newest=1">D</a>
+				<a href="/projects/c/?inrepo=ubuntu_12&#38;newest=1">C</a>
 		</li>
 		
 		<li>
-				<a href="/projects/e/?inrepo=ubuntu_12&amp;newest=1">E</a>
+				<a href="/projects/d/?inrepo=ubuntu_12&#38;newest=1">D</a>
 		</li>
 		
 		<li>
-				<a href="/projects/f/?inrepo=ubuntu_12&amp;newest=1">F</a>
+				<a href="/projects/e/?inrepo=ubuntu_12&#38;newest=1">E</a>
 		</li>
 		
 		<li>
-				<a href="/projects/g/?inrepo=ubuntu_12&amp;newest=1">G</a>
+				<a href="/projects/f/?inrepo=ubuntu_12&#38;newest=1">F</a>
 		</li>
 		
 		<li>
-				<a href="/projects/h/?inrepo=ubuntu_12&amp;newest=1">H</a>
+				<a href="/projects/g/?inrepo=ubuntu_12&#38;newest=1">G</a>
 		</li>
 		
 		<li>
-				<a href="/projects/i/?inrepo=ubuntu_12&amp;newest=1">I</a>
+				<a href="/projects/h/?inrepo=ubuntu_12&#38;newest=1">H</a>
 		</li>
 		
 		<li>
-				<a href="/projects/j/?inrepo=ubuntu_12&amp;newest=1">J</a>
+				<a href="/projects/i/?inrepo=ubuntu_12&#38;newest=1">I</a>
 		</li>
 		
 		<li>
-				<a href="/projects/k/?inrepo=ubuntu_12&amp;newest=1">K</a>
+				<a href="/projects/j/?inrepo=ubuntu_12&#38;newest=1">J</a>
 		</li>
 		
 		<li>
-				<a href="/projects/l/?inrepo=ubuntu_12&amp;newest=1">L</a>
+				<a href="/projects/k/?inrepo=ubuntu_12&#38;newest=1">K</a>
 		</li>
 		
 		<li>
-				<a href="/projects/m/?inrepo=ubuntu_12&amp;newest=1">M</a>
+				<a href="/projects/l/?inrepo=ubuntu_12&#38;newest=1">L</a>
 		</li>
 		
 		<li>
-				<a href="/projects/n/?inrepo=ubuntu_12&amp;newest=1">N</a>
+				<a href="/projects/m/?inrepo=ubuntu_12&#38;newest=1">M</a>
 		</li>
 		
 		<li>
-				<a href="/projects/o/?inrepo=ubuntu_12&amp;newest=1">O</a>
+				<a href="/projects/n/?inrepo=ubuntu_12&#38;newest=1">N</a>
+		</li>
+		
+		<li>
+				<a href="/projects/o/?inrepo=ubuntu_12&#38;newest=1">O</a>
 		</li>
 		
 		<li class="active">
-				<a href="/projects/p/?inrepo=ubuntu_12&amp;newest=1">P</a>
+				<a href="/projects/p/?inrepo=ubuntu_12&#38;newest=1">P</a>
 		</li>
 		
 		<li>
-				<a href="/projects/q/?inrepo=ubuntu_12&amp;newest=1">Q</a>
+				<a href="/projects/q/?inrepo=ubuntu_12&#38;newest=1">Q</a>
 		</li>
 		
 		<li>
-				<a href="/projects/r/?inrepo=ubuntu_12&amp;newest=1">R</a>
+				<a href="/projects/r/?inrepo=ubuntu_12&#38;newest=1">R</a>
 		</li>
 		
 		<li>
-				<a href="/projects/s/?inrepo=ubuntu_12&amp;newest=1">S</a>
+				<a href="/projects/s/?inrepo=ubuntu_12&#38;newest=1">S</a>
 		</li>
 		
 		<li>
-				<a href="/projects/t/?inrepo=ubuntu_12&amp;newest=1">T</a>
+				<a href="/projects/t/?inrepo=ubuntu_12&#38;newest=1">T</a>
 		</li>
 		
 		<li>
-				<a href="/projects/u/?inrepo=ubuntu_12&amp;newest=1">U</a>
+				<a href="/projects/u/?inrepo=ubuntu_12&#38;newest=1">U</a>
 		</li>
 		
 		<li>
-				<a href="/projects/v/?inrepo=ubuntu_12&amp;newest=1">V</a>
+				<a href="/projects/v/?inrepo=ubuntu_12&#38;newest=1">V</a>
 		</li>
 		
 		<li>
-				<a href="/projects/w/?inrepo=ubuntu_12&amp;newest=1">W</a>
+				<a href="/projects/w/?inrepo=ubuntu_12&#38;newest=1">W</a>
 		</li>
 		
 		<li>
-				<a href="/projects/x/?inrepo=ubuntu_12&amp;newest=1">X</a>
+				<a href="/projects/x/?inrepo=ubuntu_12&#38;newest=1">X</a>
 		</li>
 		
 		<li>
-				<a href="/projects/y/?inrepo=ubuntu_12&amp;newest=1">Y</a>
+				<a href="/projects/y/?inrepo=ubuntu_12&#38;newest=1">Y</a>
 		</li>
 		
 		<li>
-				<a href="/projects/z/?inrepo=ubuntu_12&amp;newest=1">Z</a>
+				<a href="/projects/z/?inrepo=ubuntu_12&#38;newest=1">Z</a>
 		</li>
 		
 
 		
 		<li>
 		
-			<a href="/projects/pkg_foofoo_/?inrepo=ubuntu_12&amp;newest=1" rel="next">&raquo;</a>
+			<a href="/projects/pkg_foofoo_/?inrepo=ubuntu_12&#38;newest=1" rel="next">&raquo;</a>
 		
 		</li>
 	</ul>
@@ -451,120 +451,120 @@ Header: content-length: 16429
 		
 		<li>
 		
-			<a href="/projects/..pkg_1224_newest_12/?inrepo=ubuntu_12&amp;newest=1" rel="prev">&laquo;</a>
+			<a href="/projects/..pkg_1224_newest_12/?inrepo=ubuntu_12&#38;newest=1" rel="prev">&laquo;</a>
 		
 		</li>
-		<li><a href="/projects/?inrepo=ubuntu_12&amp;newest=1">0-9</a></li>
+		<li><a href="/projects/?inrepo=ubuntu_12&#38;newest=1">0-9</a></li>
 		
 		<li>
-				<a href="/projects/a/?inrepo=ubuntu_12&amp;newest=1">A</a>
-		</li>
-		
-		<li>
-				<a href="/projects/b/?inrepo=ubuntu_12&amp;newest=1">B</a>
+				<a href="/projects/a/?inrepo=ubuntu_12&#38;newest=1">A</a>
 		</li>
 		
 		<li>
-				<a href="/projects/c/?inrepo=ubuntu_12&amp;newest=1">C</a>
+				<a href="/projects/b/?inrepo=ubuntu_12&#38;newest=1">B</a>
 		</li>
 		
 		<li>
-				<a href="/projects/d/?inrepo=ubuntu_12&amp;newest=1">D</a>
+				<a href="/projects/c/?inrepo=ubuntu_12&#38;newest=1">C</a>
 		</li>
 		
 		<li>
-				<a href="/projects/e/?inrepo=ubuntu_12&amp;newest=1">E</a>
+				<a href="/projects/d/?inrepo=ubuntu_12&#38;newest=1">D</a>
 		</li>
 		
 		<li>
-				<a href="/projects/f/?inrepo=ubuntu_12&amp;newest=1">F</a>
+				<a href="/projects/e/?inrepo=ubuntu_12&#38;newest=1">E</a>
 		</li>
 		
 		<li>
-				<a href="/projects/g/?inrepo=ubuntu_12&amp;newest=1">G</a>
+				<a href="/projects/f/?inrepo=ubuntu_12&#38;newest=1">F</a>
 		</li>
 		
 		<li>
-				<a href="/projects/h/?inrepo=ubuntu_12&amp;newest=1">H</a>
+				<a href="/projects/g/?inrepo=ubuntu_12&#38;newest=1">G</a>
 		</li>
 		
 		<li>
-				<a href="/projects/i/?inrepo=ubuntu_12&amp;newest=1">I</a>
+				<a href="/projects/h/?inrepo=ubuntu_12&#38;newest=1">H</a>
 		</li>
 		
 		<li>
-				<a href="/projects/j/?inrepo=ubuntu_12&amp;newest=1">J</a>
+				<a href="/projects/i/?inrepo=ubuntu_12&#38;newest=1">I</a>
 		</li>
 		
 		<li>
-				<a href="/projects/k/?inrepo=ubuntu_12&amp;newest=1">K</a>
+				<a href="/projects/j/?inrepo=ubuntu_12&#38;newest=1">J</a>
 		</li>
 		
 		<li>
-				<a href="/projects/l/?inrepo=ubuntu_12&amp;newest=1">L</a>
+				<a href="/projects/k/?inrepo=ubuntu_12&#38;newest=1">K</a>
 		</li>
 		
 		<li>
-				<a href="/projects/m/?inrepo=ubuntu_12&amp;newest=1">M</a>
+				<a href="/projects/l/?inrepo=ubuntu_12&#38;newest=1">L</a>
 		</li>
 		
 		<li>
-				<a href="/projects/n/?inrepo=ubuntu_12&amp;newest=1">N</a>
+				<a href="/projects/m/?inrepo=ubuntu_12&#38;newest=1">M</a>
 		</li>
 		
 		<li>
-				<a href="/projects/o/?inrepo=ubuntu_12&amp;newest=1">O</a>
+				<a href="/projects/n/?inrepo=ubuntu_12&#38;newest=1">N</a>
+		</li>
+		
+		<li>
+				<a href="/projects/o/?inrepo=ubuntu_12&#38;newest=1">O</a>
 		</li>
 		
 		<li class="active">
-				<a href="/projects/p/?inrepo=ubuntu_12&amp;newest=1">P</a>
+				<a href="/projects/p/?inrepo=ubuntu_12&#38;newest=1">P</a>
 		</li>
 		
 		<li>
-				<a href="/projects/q/?inrepo=ubuntu_12&amp;newest=1">Q</a>
+				<a href="/projects/q/?inrepo=ubuntu_12&#38;newest=1">Q</a>
 		</li>
 		
 		<li>
-				<a href="/projects/r/?inrepo=ubuntu_12&amp;newest=1">R</a>
+				<a href="/projects/r/?inrepo=ubuntu_12&#38;newest=1">R</a>
 		</li>
 		
 		<li>
-				<a href="/projects/s/?inrepo=ubuntu_12&amp;newest=1">S</a>
+				<a href="/projects/s/?inrepo=ubuntu_12&#38;newest=1">S</a>
 		</li>
 		
 		<li>
-				<a href="/projects/t/?inrepo=ubuntu_12&amp;newest=1">T</a>
+				<a href="/projects/t/?inrepo=ubuntu_12&#38;newest=1">T</a>
 		</li>
 		
 		<li>
-				<a href="/projects/u/?inrepo=ubuntu_12&amp;newest=1">U</a>
+				<a href="/projects/u/?inrepo=ubuntu_12&#38;newest=1">U</a>
 		</li>
 		
 		<li>
-				<a href="/projects/v/?inrepo=ubuntu_12&amp;newest=1">V</a>
+				<a href="/projects/v/?inrepo=ubuntu_12&#38;newest=1">V</a>
 		</li>
 		
 		<li>
-				<a href="/projects/w/?inrepo=ubuntu_12&amp;newest=1">W</a>
+				<a href="/projects/w/?inrepo=ubuntu_12&#38;newest=1">W</a>
 		</li>
 		
 		<li>
-				<a href="/projects/x/?inrepo=ubuntu_12&amp;newest=1">X</a>
+				<a href="/projects/x/?inrepo=ubuntu_12&#38;newest=1">X</a>
 		</li>
 		
 		<li>
-				<a href="/projects/y/?inrepo=ubuntu_12&amp;newest=1">Y</a>
+				<a href="/projects/y/?inrepo=ubuntu_12&#38;newest=1">Y</a>
 		</li>
 		
 		<li>
-				<a href="/projects/z/?inrepo=ubuntu_12&amp;newest=1">Z</a>
+				<a href="/projects/z/?inrepo=ubuntu_12&#38;newest=1">Z</a>
 		</li>
 		
 
 		
 		<li>
 		
-			<a href="/projects/pkg_foofoo_/?inrepo=ubuntu_12&amp;newest=1" rel="next">&raquo;</a>
+			<a href="/projects/pkg_foofoo_/?inrepo=ubuntu_12&#38;newest=1" rel="next">&raquo;</a>
 		
 		</li>
 	</ul>

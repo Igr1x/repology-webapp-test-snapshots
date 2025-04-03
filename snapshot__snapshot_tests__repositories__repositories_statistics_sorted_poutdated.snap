@@ -136,34 +136,34 @@ Header: content-length: 11766
 			</td>
 
 			<td class="text-center total-cell" title="Number of non-unique projects packaged in this repository">
-				<a href="/projects/?inrepo=freebsd&amp;families=2-">0</a>
+				<a href="/projects/?inrepo=freebsd&#38;families=2-">0</a>
 			</td>
 
 			<td class="text-center version-cell version-big version-newest">
-				<a href="/projects/?inrepo=freebsd&amp;newest=1">0</a>
+				<a href="/projects/?inrepo=freebsd&#38;newest=1">0</a>
 			</td>
 			<td class="text-center version-cell version-big version-newest">-</td>
 
 			<td class="text-center version-cell version-big version-outdated">
-				<a href="/projects/?inrepo=freebsd&amp;outdated=1">0</a>
+				<a href="/projects/?inrepo=freebsd&#38;outdated=1">0</a>
 			</td>
 			<td class="text-center version-cell version-big version-outdated">-</td>
 
 			<td class="text-center version-cell version-big version-unique">
 			
-				<a href="/projects/?inrepo=freebsd&amp;families=1">0</a>
+				<a href="/projects/?inrepo=freebsd&#38;families=1">0</a>
 			
 			</td>
 			<td class="text-center version-cell version-big version-unique">
 			-</td>
 
 			<td class="text-center version-cell version-big version-ignored">
-				<a href="/projects/?inrepo=freebsd&amp;problematic=1">0</a>
+				<a href="/projects/?inrepo=freebsd&#38;problematic=1">0</a>
 			</td>
 			<td class="text-center version-cell version-big version-ignored">-</td>
 
 			<td class="text-center">
-				<a href="/projects/?inrepo=freebsd&amp;vulnerable=1">0</a>
+				<a href="/projects/?inrepo=freebsd&#38;vulnerable=1">0</a>
 			</td>
 			<td class="text-center">-</td>
 
@@ -182,34 +182,34 @@ Header: content-length: 11766
 			</td>
 
 			<td class="text-center total-cell" title="Number of non-unique projects packaged in this repository">
-				<a href="/projects/?inrepo=freshcode&amp;families=2-">0</a>
+				<a href="/projects/?inrepo=freshcode&#38;families=2-">0</a>
 			</td>
 
 			<td class="text-center version-cell version-big version-newest">
-				<a href="/projects/?inrepo=freshcode&amp;newest=1">0</a>
+				<a href="/projects/?inrepo=freshcode&#38;newest=1">0</a>
 			</td>
 			<td class="text-center version-cell version-big version-newest">-</td>
 
 			<td class="text-center version-cell version-big version-outdated">
-				<a href="/projects/?inrepo=freshcode&amp;outdated=1">0</a>
+				<a href="/projects/?inrepo=freshcode&#38;outdated=1">0</a>
 			</td>
 			<td class="text-center version-cell version-big version-outdated">-</td>
 
 			<td class="text-center version-cell version-big version-unique">
 			
-				<a href="/projects/?inrepo=freshcode&amp;families=1">0</a>
+				<a href="/projects/?inrepo=freshcode&#38;families=1">0</a>
 			
 			</td>
 			<td class="text-center version-cell version-big version-unique">
 			-</td>
 
 			<td class="text-center version-cell version-big version-ignored">
-				<a href="/projects/?inrepo=freshcode&amp;problematic=1">0</a>
+				<a href="/projects/?inrepo=freshcode&#38;problematic=1">0</a>
 			</td>
 			<td class="text-center version-cell version-big version-ignored">-</td>
 
 			<td class="text-center">
-				<a href="/projects/?inrepo=freshcode&amp;vulnerable=1">0</a>
+				<a href="/projects/?inrepo=freshcode&#38;vulnerable=1">0</a>
 			</td>
 			<td class="text-center">-</td>
 
@@ -228,34 +228,34 @@ Header: content-length: 11766
 			</td>
 
 			<td class="text-center total-cell" title="Number of non-unique projects packaged in this repository">
-				<a href="/projects/?inrepo=ubuntu_12&amp;families=2-">0</a>
+				<a href="/projects/?inrepo=ubuntu_12&#38;families=2-">0</a>
 			</td>
 
 			<td class="text-center version-cell version-big version-newest">
-				<a href="/projects/?inrepo=ubuntu_12&amp;newest=1">0</a>
+				<a href="/projects/?inrepo=ubuntu_12&#38;newest=1">0</a>
 			</td>
 			<td class="text-center version-cell version-big version-newest">-</td>
 
 			<td class="text-center version-cell version-big version-outdated">
-				<a href="/projects/?inrepo=ubuntu_12&amp;outdated=1">0</a>
+				<a href="/projects/?inrepo=ubuntu_12&#38;outdated=1">0</a>
 			</td>
 			<td class="text-center version-cell version-big version-outdated">-</td>
 
 			<td class="text-center version-cell version-big version-unique">
 			
-				<a href="/projects/?inrepo=ubuntu_12&amp;families=1">0</a>
+				<a href="/projects/?inrepo=ubuntu_12&#38;families=1">0</a>
 			
 			</td>
 			<td class="text-center version-cell version-big version-unique">
 			-</td>
 
 			<td class="text-center version-cell version-big version-ignored">
-				<a href="/projects/?inrepo=ubuntu_12&amp;problematic=1">0</a>
+				<a href="/projects/?inrepo=ubuntu_12&#38;problematic=1">0</a>
 			</td>
 			<td class="text-center version-cell version-big version-ignored">-</td>
 
 			<td class="text-center">
-				<a href="/projects/?inrepo=ubuntu_12&amp;vulnerable=1">0</a>
+				<a href="/projects/?inrepo=ubuntu_12&#38;vulnerable=1">0</a>
 			</td>
 			<td class="text-center">-</td>
 
@@ -274,34 +274,34 @@ Header: content-length: 11766
 			</td>
 
 			<td class="text-center total-cell" title="Number of non-unique projects packaged in this repository">
-				<a href="/projects/?inrepo=ubuntu_24&amp;families=2-">0</a>
+				<a href="/projects/?inrepo=ubuntu_24&#38;families=2-">0</a>
 			</td>
 
 			<td class="text-center version-cell version-big version-newest">
-				<a href="/projects/?inrepo=ubuntu_24&amp;newest=1">0</a>
+				<a href="/projects/?inrepo=ubuntu_24&#38;newest=1">0</a>
 			</td>
 			<td class="text-center version-cell version-big version-newest">-</td>
 
 			<td class="text-center version-cell version-big version-outdated">
-				<a href="/projects/?inrepo=ubuntu_24&amp;outdated=1">0</a>
+				<a href="/projects/?inrepo=ubuntu_24&#38;outdated=1">0</a>
 			</td>
 			<td class="text-center version-cell version-big version-outdated">-</td>
 
 			<td class="text-center version-cell version-big version-unique">
 			
-				<a href="/projects/?inrepo=ubuntu_24&amp;families=1">0</a>
+				<a href="/projects/?inrepo=ubuntu_24&#38;families=1">0</a>
 			
 			</td>
 			<td class="text-center version-cell version-big version-unique">
 			-</td>
 
 			<td class="text-center version-cell version-big version-ignored">
-				<a href="/projects/?inrepo=ubuntu_24&amp;problematic=1">0</a>
+				<a href="/projects/?inrepo=ubuntu_24&#38;problematic=1">0</a>
 			</td>
 			<td class="text-center version-cell version-big version-ignored">-</td>
 
 			<td class="text-center">
-				<a href="/projects/?inrepo=ubuntu_24&amp;vulnerable=1">0</a>
+				<a href="/projects/?inrepo=ubuntu_24&#38;vulnerable=1">0</a>
 			</td>
 			<td class="text-center">-</td>
 

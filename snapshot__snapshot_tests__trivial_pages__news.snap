@@ -73,7 +73,7 @@ Header: content-length: 4992
 	<h3 id="2024-09-23">2024-09-23</h3>
 	<ul>
 		<li>Added <a href="/repository/openvsx">Open VSX</a> VS Code extension registry.
-			Unfortunately it currently only <a href="/projects/?search=vscode%3A&amp;families=2-">intersects</a>
+			Unfortunately it currently only <a href="/projects/?search=vscode%3A&#38;families=2-">intersects</a>
 			with Nix repository, so we encourage all repositories to use compatible and unambiguous naming scheme for vscode extensions, which
 			contains dot-separated namespace and extension name, for instance <code>vscode-ms-python.flake8</code>.
 		</li>

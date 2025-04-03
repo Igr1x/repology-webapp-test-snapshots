@@ -85,10 +85,10 @@ Header: content-length: 4122
 <img src="/graph/map_repo_size_fresh.svg" alt="Repository size/freshness map">
 
 <p>Zoomed in onto main cluster of repositories:</p>
-<img src="/graph/map_repo_size_fresh.svg?xlimit=40000&amp;ylimit=20000" alt="Repository size/freshness map (zoom in)">
+<img src="/graph/map_repo_size_fresh.svg?xlimit=40000&#38;ylimit=20000" alt="Repository size/freshness map (zoom in)">
 
 <p>Zoomed in onto smaller repositories:</p>
-<img src="/graph/map_repo_size_fresh.svg?xlimit=8000&amp;ylimit=4000" alt="Repository size/freshness map (zoom in)">
+<img src="/graph/map_repo_size_fresh.svg?xlimit=8000&#38;ylimit=4000" alt="Repository size/freshness map (zoom in)">
 
 <h3 id="projects_graph">Projects</h3>
 <img src="/graph/total/projects.svg" alt="Projects know to Repology versus time">

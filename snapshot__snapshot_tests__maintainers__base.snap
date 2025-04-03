@@ -117,19 +117,19 @@ Header: content-length: 8605
 				<a href="/repository/freebsd">FreeBSD</a>
 			</td>
 			<td class="text-center total-cell">
-				<a href="/projects/?maintainer=active%40example.com&amp;inrepo=freebsd">11</a>
+				<a href="/projects/?maintainer=active%40example.com&#38;inrepo=freebsd">11</a>
 			</td><td class="text-center version-cell version-big version-newest">
-				<a href="/projects/?maintainer=active%40example.com&amp;inrepo=freebsd&amp;newest=1">12</a>
+				<a href="/projects/?maintainer=active%40example.com&#38;inrepo=freebsd&#38;newest=1">12</a>
 			</td>
 			<td class="text-center version-cell version-big version-newest">
-				<a href="/projects/?maintainer=active%40example.com&amp;inrepo=freebsd&amp;newest=1">109.1%</a>
+				<a href="/projects/?maintainer=active%40example.com&#38;inrepo=freebsd&#38;newest=1">109.1%</a>
 			</td><td class="text-center version-cell version-big version-outdated">
-				<a href="/projects/?maintainer=active%40example.com&amp;inrepo=freebsd&amp;outdated=1">13</a>
+				<a href="/projects/?maintainer=active%40example.com&#38;inrepo=freebsd&#38;outdated=1">13</a>
 			</td>
 			<td class="text-center version-cell version-big version-outdated">
-				<a href="/projects/?maintainer=active%40example.com&amp;inrepo=freebsd&amp;outdated=1">118.2%</a>
+				<a href="/projects/?maintainer=active%40example.com&#38;inrepo=freebsd&#38;outdated=1">118.2%</a>
 			</td><td class="text-center version-cell version-big version-ignored">
-				<a href="/projects/?maintainer=active%40example.com&amp;inrepo=freebsd&amp;problematic=1">14</a>
+				<a href="/projects/?maintainer=active%40example.com&#38;inrepo=freebsd&#38;problematic=1">14</a>
 			</td><td class="text-center total-cell">
 				<a href="/projects/?maintainer=active%40example.com">10</a>
 			</td>
@@ -144,19 +144,19 @@ Header: content-length: 8605
 				<a href="/repository/freebsd">FreeBSD</a>
 			</td>
 			<td class="text-center total-cell">
-				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&amp;inrepo=freebsd">1</a>
+				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&#38;inrepo=freebsd">1</a>
 			</td><td class="text-center version-cell version-big version-newest">
-				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&amp;inrepo=freebsd&amp;newest=1">1</a>
+				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&#38;inrepo=freebsd&#38;newest=1">1</a>
 			</td>
 			<td class="text-center version-cell version-big version-newest">
-				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&amp;inrepo=freebsd&amp;newest=1">100.0%</a>
+				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&#38;inrepo=freebsd&#38;newest=1">100.0%</a>
 			</td><td class="text-center version-cell version-big version-outdated">
-				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&amp;inrepo=freebsd&amp;outdated=1">1</a>
+				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&#38;inrepo=freebsd&#38;outdated=1">1</a>
 			</td>
 			<td class="text-center version-cell version-big version-outdated">
-				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&amp;inrepo=freebsd&amp;outdated=1">100.0%</a>
+				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&#38;inrepo=freebsd&#38;outdated=1">100.0%</a>
 			</td><td class="text-center version-cell version-big version-ignored">
-				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&amp;inrepo=freebsd&amp;problematic=1">1</a>
+				<a href="/projects/?maintainer=fallback-mnt-foo%40repology&#38;inrepo=freebsd&#38;problematic=1">1</a>
 			</td><td class="text-center total-cell">
 				<a href="/projects/?maintainer=fallback-mnt-foo%40repology">1</a>
 			</td>
@@ -171,19 +171,19 @@ Header: content-length: 8605
 				<a href="/repository/freebsd">FreeBSD</a>
 			</td>
 			<td class="text-center total-cell">
-				<a href="/projects/?maintainer=no-vuln-column%40example.com&amp;inrepo=freebsd">11</a>
+				<a href="/projects/?maintainer=no-vuln-column%40example.com&#38;inrepo=freebsd">11</a>
 			</td><td class="text-center version-cell version-big version-newest">
-				<a href="/projects/?maintainer=no-vuln-column%40example.com&amp;inrepo=freebsd&amp;newest=1">12</a>
+				<a href="/projects/?maintainer=no-vuln-column%40example.com&#38;inrepo=freebsd&#38;newest=1">12</a>
 			</td>
 			<td class="text-center version-cell version-big version-newest">
-				<a href="/projects/?maintainer=no-vuln-column%40example.com&amp;inrepo=freebsd&amp;newest=1">109.1%</a>
+				<a href="/projects/?maintainer=no-vuln-column%40example.com&#38;inrepo=freebsd&#38;newest=1">109.1%</a>
 			</td><td class="text-center version-cell version-big version-outdated">
-				<a href="/projects/?maintainer=no-vuln-column%40example.com&amp;inrepo=freebsd&amp;outdated=1">13</a>
+				<a href="/projects/?maintainer=no-vuln-column%40example.com&#38;inrepo=freebsd&#38;outdated=1">13</a>
 			</td>
 			<td class="text-center version-cell version-big version-outdated">
-				<a href="/projects/?maintainer=no-vuln-column%40example.com&amp;inrepo=freebsd&amp;outdated=1">118.2%</a>
+				<a href="/projects/?maintainer=no-vuln-column%40example.com&#38;inrepo=freebsd&#38;outdated=1">118.2%</a>
 			</td><td class="text-center version-cell version-big version-ignored">
-				<a href="/projects/?maintainer=no-vuln-column%40example.com&amp;inrepo=freebsd&amp;problematic=1">14</a>
+				<a href="/projects/?maintainer=no-vuln-column%40example.com&#38;inrepo=freebsd&#38;problematic=1">14</a>
 			</td><td class="text-center total-cell">
 				<a href="/projects/?maintainer=no-vuln-column%40example.com">10</a>
 			</td>

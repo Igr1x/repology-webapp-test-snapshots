@@ -131,7 +131,7 @@ Header: content-length: 9097
 		<div class="panel panel-success">
 			<div class="panel-heading"><h3>Newest</h3></div>
 			<div class="panel-body">
-				<a href="/projects/?inrepo=empty&amp;newest=1">
+				<a href="/projects/?inrepo=empty&#38;newest=1">
 					0
 				</a>
 			</div>
@@ -141,7 +141,7 @@ Header: content-length: 9097
 		<div class="panel panel-danger">
 			<div class="panel-heading"><h3>Outdated</h3></div>
 			<div class="panel-body">
-				<a href="/projects/?inrepo=empty&amp;outdated=1">
+				<a href="/projects/?inrepo=empty&#38;outdated=1">
 					0
 				</a>
 			</div>
@@ -151,7 +151,7 @@ Header: content-length: 9097
 		<div class="panel panel-info">
 			<div class="panel-heading"><h3>Unique</h3></div>
 			<div class="panel-body">
-				<a href="/projects/?inrepo=empty&amp;families=1">
+				<a href="/projects/?inrepo=empty&#38;families=1">
 					0
 				</a>
 			</div>
@@ -165,23 +165,23 @@ Header: content-length: 9097
 
 <ul>
 	<li><a href="/projects/?inrepo=empty">All packages</a> present in this repository.</li>
-	<li>Packages which are <a href="/projects/?inrepo=empty&amp;newest=1">up to date</a> in this repository.</li>
-	<li>Packages which are <a href="/projects/?inrepo=empty&amp;outdated=1">outdated</a> in this repository.</li>
-	<li>Packages which are <a href="/projects/?inrepo=empty&amp;outdated=1&amp;families_newest=2-">outdated</a> in this repository, but newest in 2+ families. Compared to the previous query this has smaller possibility of false positives.</li>
-	<li>Packages which are <a href="/projects/?inrepo=empty&amp;vulnerable=1">potentially vulnerable</a> in this repository.</li>
+	<li>Packages which are <a href="/projects/?inrepo=empty&#38;newest=1">up to date</a> in this repository.</li>
+	<li>Packages which are <a href="/projects/?inrepo=empty&#38;outdated=1">outdated</a> in this repository.</li>
+	<li>Packages which are <a href="/projects/?inrepo=empty&#38;outdated=1&#38;families_newest=2-">outdated</a> in this repository, but newest in 2+ families. Compared to the previous query this has smaller possibility of false positives.</li>
+	<li>Packages which are <a href="/projects/?inrepo=empty&#38;vulnerable=1">potentially vulnerable</a> in this repository.</li>
 </ul>
 <ul>
-	<li>Packages which <a href="/projects/?inrepo=empty&amp;problematic=1">have ignored versions</a> in this repository. There may be incorrect versions which needs fixing among these.</li>
-	<li>Packages which are up to date <a href="/projects/?inrepo=empty&amp;newest=1&amp;families_newest=1">only in this repository family</a>. There may be incorrect versions which needs fixing among these.</li>
-	<li>Packages which <a href="/projects/?inrepo=empty&amp;has_related=1">have related ones</a> (with the same homepage). There may be projects which require merging these.</li>
+	<li>Packages which <a href="/projects/?inrepo=empty&#38;problematic=1">have ignored versions</a> in this repository. There may be incorrect versions which needs fixing among these.</li>
+	<li>Packages which are up to date <a href="/projects/?inrepo=empty&#38;newest=1&#38;families_newest=1">only in this repository family</a>. There may be incorrect versions which needs fixing among these.</li>
+	<li>Packages which <a href="/projects/?inrepo=empty&#38;has_related=1">have related ones</a> (with the same homepage). There may be projects which require merging these.</li>
 </ul>
 <ul>
-	<li>Unique projects present <a href="/projects/?inrepo=empty&amp;families=1">only in this repository family</a>.</li>
-	<li>Unique projects present <a href="/projects/?inrepo=empty&amp;repos=1">only in this repository</a>.</li>
+	<li>Unique projects present <a href="/projects/?inrepo=empty&#38;families=1">only in this repository family</a>.</li>
+	<li>Unique projects present <a href="/projects/?inrepo=empty&#38;repos=1">only in this repository</a>.</li>
 </ul>
 <ul>
 	<li>Project in other repositories <a href="/projects/?notinrepo=empty">not present in this one</a>.</li>
-	<li>Popular projects <a href="/projects/?notinrepo=empty&amp;families=5-">present in 5+ repository families</a>, but absent in this one - likely good candidates for inclusion.</li>
+	<li>Popular projects <a href="/projects/?notinrepo=empty&#38;families=5-">present in 5+ repository families</a>, but absent in this one - likely good candidates for inclusion.</li>
 </ul>
 
 <h2>Maintainers</h2>
