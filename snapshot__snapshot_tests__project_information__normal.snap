@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 4553
+Header: content-length: 4650
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -94,16 +94,16 @@ Header: content-length: 4553
 			<ul class="list-sparse">
 			
 				<li>
-					<span class="version version-big version-ignored">1.2</span></li>
+					<span class="version version-big version-ignored" title="ignored version">1.2</span></li>
 			
 				<li>
-					<span class="version version-big version-newest">1.1</span></li>
+					<span class="version version-big version-newest" title="newest version">1.1</span></li>
 			
 				<li>
-					<span class="version version-big version-outdated">1.0</span> <b>(2)</b></li>
+					<span class="version version-big version-outdated" title="outdated version">1.0</span> <b>(2)</b></li>
 			
 				<li>
-					<span class="version version-big version-outdated">0.9</span></li>
+					<span class="version version-big version-outdated" title="outdated version">0.9</span></li>
 			
 			</ul>
 		</section>
