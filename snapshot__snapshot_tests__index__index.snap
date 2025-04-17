@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 15063
+Header: content-length: 15065
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -131,7 +131,7 @@ Header: content-length: 15063
 			<div class="col-md-4">
 				<ul class="list-unstyled">
 					<li><time class="news-summary-time" datetime="2025-04-14">2025-04-14</time>
-						added <a href="/repository/stalix">stal/IX</a> registry</li>
+						added <a href="/repository/stalix">stal/IX</a> repository</li>
 					<li><time class="news-summary-time" datetime="2024-09-23">2024-09-23</time>
 						added <a href="/repository/openvsx">Open VSX</a> registry</li>
 					<li><time class="news-summary-time" datetime="2024-09-17">2024-09-17</time>
