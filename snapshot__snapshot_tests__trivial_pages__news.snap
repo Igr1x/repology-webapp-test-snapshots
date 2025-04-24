@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 5134
+Header: content-length: 5277
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -68,6 +68,13 @@ Header: content-length: 5134
 
 
 <div class="container">
+
+<article>
+	<h3 id="2025-04-25">2025-04-25</h3>
+	<ul>
+		<li>Added <a href="/repository/ptxdist">PTXdist</a> repository.</li>
+	</ul>
+</article>
 
 <article>
 	<h3 id="2025-04-14">2025-04-14</h3>
