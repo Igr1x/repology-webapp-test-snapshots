@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 9158
+Header: content-length: 9160
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -72,6 +72,8 @@ Header: content-length: 9158
 
 <p>
 		<a href="/repository/good?autorefresh=1" rel="nofollow">Enable</a> autorefresh.</p>
+
+
 
 
 

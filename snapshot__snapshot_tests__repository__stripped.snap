@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 10733
+Header: content-length: 10735
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -79,6 +79,8 @@ Header: content-length: 10733
 
 
 <div class="alert alert-danger" role="alert"><p>This repository <a href="/repositories/fields#stripped ">does not provide</a> links to <strong>package recipes or sources</strong> in a way accessible by Repology. This is critical, because one of the goals of Repology is to make the details of how a project is packaged visible to anyone. It makes Repology maintenance harder as it's not possible to easily check where a specific version comes from; it does not allow upstream to check the recipe and improve their software to simplify packaging, or suggest corrections to the maintainer; it does not allow other maintainers to learn new ideas. It may be as well dangerous to users due to lack of transparency. Because of that, this repository is <strong>subject to removal</strong> in the near future.</p><p>See <a href="/docs/requirements">documentation</a> for a best way to make package metadata available for Repology.</p></div>
+
+
 
 
 
