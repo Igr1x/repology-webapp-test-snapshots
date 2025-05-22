@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 5277
+Header: content-length: 5525
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -68,6 +68,13 @@ Header: content-length: 5277
 
 
 <div class="container">
+
+<article>
+	<h3 id="2025-05-22">2025-05-22</h3>
+	<ul>
+		<li>We've started removing old (EoLed more than 2 years ago) repositories. See <a href="https://github.com/repology/repology-updater/issues/1499">issue</a> for details.</li>
+	</ul>
+</article>
 
 <article>
 	<h3 id="2025-04-25">2025-04-25</h3>
