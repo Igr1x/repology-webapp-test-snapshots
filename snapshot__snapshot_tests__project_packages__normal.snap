@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 5803
+Header: content-length: 5691
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -90,8 +90,6 @@ Header: content-length: 5803
 <p><b>5</b> package(s) known</p>
 
 <div class="row">
-
-
 	<div class="col-md-4">
 		<div class="panel panel-version-newest">
 			<div class="panel-heading">
@@ -101,16 +99,9 @@ Header: content-length: 5803
 				<div class="package-version"><span class=" version-property-fixed" title="Normalized from &quot;1.0&quot;">1.1</span> (1.0)</div>
 			</div>
 			<ul class="list-group">
-			
-			
-			
-			
-			
 			</ul>
 		</div>
 	</div>
-
-
 	<div class="col-md-4">
 		<div class="panel panel-version-outdated">
 			<div class="panel-heading">
@@ -120,16 +111,9 @@ Header: content-length: 5803
 				<div class="package-version"><span class="">1.0</span></div>
 			</div>
 			<ul class="list-group">
-			
-			
-			
-			
-			
 			</ul>
 		</div>
 	</div>
-
-
 	<div class="col-md-4">
 		<div class="panel panel-version-outdated">
 			<div class="panel-heading">
@@ -139,19 +123,11 @@ Header: content-length: 5803
 				<div class="package-version"><span class=" version-property-fixed" title="Normalized from &quot;1.0&quot;">0.9</span> (1.0)</div>
 			</div>
 			<ul class="list-group">
-			
-			
-			
-			
-			
 			</ul>
 		</div>
 	</div>
-
-
 </div>
 <div class="row">
-
 	<div class="col-md-4">
 		<div class="panel panel-version-ignored">
 			<div class="panel-heading">
@@ -161,16 +137,9 @@ Header: content-length: 5803
 				<div class="package-version"><span class=" version-property-fixed" title="Normalized from &quot;1.0&quot;">1.2</span> (1.0)</div>
 			</div>
 			<ul class="list-group">
-			
-			
-			
-			
-			
 			</ul>
 		</div>
 	</div>
-
-
 	<div class="col-md-4">
 		<div class="panel panel-version-outdated">
 			<div class="panel-heading">
@@ -180,15 +149,9 @@ Header: content-length: 5803
 				<div class="package-version"><span class="">1.0</span></div>
 			</div>
 			<ul class="list-group">
-			
-			
-			
-			
-			
 			</ul>
 		</div>
 	</div>
-
 </div>
 </div>
 
