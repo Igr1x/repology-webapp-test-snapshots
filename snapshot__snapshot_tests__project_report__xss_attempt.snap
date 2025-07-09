@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 8287
+Header: content-length: 8381
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -149,6 +149,7 @@ Header: content-length: 8287
 			<ul>
 				<li>Legacy or ESR branches of the same project.</li>
 				<li><code>*-unclassified</code> projects which lack valid homepage information.</li>
+				<li>Maintained forks of abandoned projects, unless a fork has known fatal drawbacks.</li>
 			</ul>
 		</div>
 	</div>
