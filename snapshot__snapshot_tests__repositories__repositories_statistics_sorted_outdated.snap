@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 11765
+Header: content-length: 11352
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -115,8 +115,8 @@ Header: content-length: 11765
 			<th class="text-center" rowspan="2">Problems</th>
 		</tr>
 		<tr>
-			<th class="text-center">Total</th>
-			<th class="text-center"><abbr title="Non-unique">N/u</abbr></th>
+			<th class="text-center" title="Total number of projects packaged in this repository">Total</th>
+			<th class="text-center" title="Number of non-unique projects packaged in this repository">N/u</th>
 			<th class="text-center" colspan="2">Newest</th>
 			<th class="text-center" colspan="2">Outdated</th>
 			<th class="text-center" colspan="2">Unique</th>
@@ -131,11 +131,11 @@ Header: content-length: 11765
 				<a href="/repository/freebsd">FreeBSD</a>
 			</th>
 
-			<td class="text-center total-cell" title="Total number of projects packaged in this repository">
+			<td class="text-center total-cell">
 				<a href="/projects/?inrepo=freebsd">0</a>
 			</td>
 
-			<td class="text-center total-cell" title="Number of non-unique projects packaged in this repository">
+			<td class="text-center total-cell">
 				<a href="/projects/?inrepo=freebsd&#38;families=2-">0</a>
 			</td>
 
@@ -177,11 +177,11 @@ Header: content-length: 11765
 				<a href="/repository/freshcode">freshcode.club</a>
 			</th>
 
-			<td class="text-center total-cell" title="Total number of projects packaged in this repository">
+			<td class="text-center total-cell">
 				<a href="/projects/?inrepo=freshcode">0</a>
 			</td>
 
-			<td class="text-center total-cell" title="Number of non-unique projects packaged in this repository">
+			<td class="text-center total-cell">
 				<a href="/projects/?inrepo=freshcode&#38;families=2-">0</a>
 			</td>
 
@@ -223,11 +223,11 @@ Header: content-length: 11765
 				<a href="/repository/ubuntu_12">Ubuntu 12</a>
 			</th>
 
-			<td class="text-center total-cell" title="Total number of projects packaged in this repository">
+			<td class="text-center total-cell">
 				<a href="/projects/?inrepo=ubuntu_12">0</a>
 			</td>
 
-			<td class="text-center total-cell" title="Number of non-unique projects packaged in this repository">
+			<td class="text-center total-cell">
 				<a href="/projects/?inrepo=ubuntu_12&#38;families=2-">0</a>
 			</td>
 
@@ -269,11 +269,11 @@ Header: content-length: 11765
 				<a href="/repository/ubuntu_24">Ubuntu 24</a>
 			</th>
 
-			<td class="text-center total-cell" title="Total number of projects packaged in this repository">
+			<td class="text-center total-cell">
 				<a href="/projects/?inrepo=ubuntu_24">0</a>
 			</td>
 
-			<td class="text-center total-cell" title="Number of non-unique projects packaged in this repository">
+			<td class="text-center total-cell">
 				<a href="/projects/?inrepo=ubuntu_24&#38;families=2-">0</a>
 			</td>
 
