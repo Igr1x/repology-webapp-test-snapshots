@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 15692
+Header: content-length: 15610
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -228,9 +228,7 @@ Header: content-length: 15692
 	<thead>
 		<tr>
 			<th>Project</th>
-			
 			<th class="text-nowrap" title="Packages in Ubuntu 12">Selected</th>
-			
 			<th class="text-center" title="Spread - number of repository families a project is present in">Spr</th>
 			<th title="Versions considered newest">Newest</th>
 			<th title="Versions considered outdated">Outdated</th>
@@ -242,88 +240,51 @@ Header: content-length: 15692
 			<td class="text-nowrap">
 				<a href="/project/pkg_1224_newest_12/versions">pkg_1224_newest_12</a>
 			</td>
-			
-			<td>
-
-	<span class="version version-newest"></span></td>
-			
+			<td><span class="version version-newest"></span></td>
 			<td class="text-center"><b>1</b></td>
-			<td>
-</td>
-			<td>
-
-	<span class="version version-outdated"></span></td>
-			<td>
-</td>
+			<td></td>
+			<td><span class="version version-outdated"></span></td>
+			<td></td>
 		</tr>
 		<tr>
 			<td class="text-nowrap">
 				<a href="/project/pkg_1224e/versions">pkg_1224e</a>
 			</td>
-			
-			<td>
-
-	<span class="version version-newest"></span></td>
-			
+			<td><span class="version version-newest"></span></td>
 			<td class="text-center"><b>1</b></td>
-			<td>
-
-	<span class="version version-newest"></span></td>
-			<td>
-</td>
-			<td>
-</td>
+			<td><span class="version version-newest"></span></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr>
 			<td class="text-nowrap">
 				<a href="/project/pkg_12e/versions">pkg_12e</a>
 			</td>
-			
-			<td>
-
-	<span class="version version-newest"></span></td>
-			
+			<td><span class="version version-newest"></span></td>
 			<td class="text-center"><b>1</b></td>
-			<td>
-</td>
-			<td>
-</td>
-			<td>
-</td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr>
 			<td class="text-nowrap">
 				<a href="/project/pkg_barbar_/versions">pkg_barbar_</a>
 			</td>
-			
-			<td>
-
-	<span class="version version-newest"></span></td>
-			
+			<td><span class="version version-newest"></span></td>
 			<td class="text-center"><b>1</b></td>
-			<td>
-</td>
-			<td>
-</td>
-			<td>
-</td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 		<tr>
 			<td class="text-nowrap">
 				<a href="/project/pkg_foofoo_/versions">pkg_foofoo_</a>
 			</td>
-			
-			<td>
-
-	<span class="version version-newest"></span></td>
-			
+			<td><span class="version version-newest"></span></td>
 			<td class="text-center"><b>1</b></td>
-			<td>
-</td>
-			<td>
-</td>
-			<td>
-</td>
+			<td></td>
+			<td></td>
+			<td></td>
 		</tr>
 	</tbody>
 </table>
