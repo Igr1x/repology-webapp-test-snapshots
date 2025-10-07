@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 13946
+Header: content-length: 13302
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -189,125 +189,35 @@ Header: content-length: 13946
 
 <nav>
 	<ul class="pagination">
-		
-		<li>
-		
-			<a href="/projects/..pkg_foofoo_/?search=foo" rel="prev">&laquo;</a>
-		
-		</li>
+		<li><a href="/projects/..pkg_foofoo_/?search=foo" rel="prev">&laquo;</a></li>
 		<li><a href="/projects/?search=foo">0-9</a></li>
-		
-		<li>
-				<a href="/projects/a/?search=foo">A</a>
-		</li>
-		
-		<li>
-				<a href="/projects/b/?search=foo">B</a>
-		</li>
-		
-		<li>
-				<a href="/projects/c/?search=foo">C</a>
-		</li>
-		
-		<li>
-				<a href="/projects/d/?search=foo">D</a>
-		</li>
-		
-		<li>
-				<a href="/projects/e/?search=foo">E</a>
-		</li>
-		
-		<li>
-				<a href="/projects/f/?search=foo">F</a>
-		</li>
-		
-		<li>
-				<a href="/projects/g/?search=foo">G</a>
-		</li>
-		
-		<li>
-				<a href="/projects/h/?search=foo">H</a>
-		</li>
-		
-		<li>
-				<a href="/projects/i/?search=foo">I</a>
-		</li>
-		
-		<li>
-				<a href="/projects/j/?search=foo">J</a>
-		</li>
-		
-		<li>
-				<a href="/projects/k/?search=foo">K</a>
-		</li>
-		
-		<li>
-				<a href="/projects/l/?search=foo">L</a>
-		</li>
-		
-		<li>
-				<a href="/projects/m/?search=foo">M</a>
-		</li>
-		
-		<li>
-				<a href="/projects/n/?search=foo">N</a>
-		</li>
-		
-		<li>
-				<a href="/projects/o/?search=foo">O</a>
-		</li>
-		
-		<li class="active">
-				<a href="/projects/p/?search=foo">P</a>
-		</li>
-		
-		<li>
-				<a href="/projects/q/?search=foo">Q</a>
-		</li>
-		
-		<li>
-				<a href="/projects/r/?search=foo">R</a>
-		</li>
-		
-		<li>
-				<a href="/projects/s/?search=foo">S</a>
-		</li>
-		
-		<li>
-				<a href="/projects/t/?search=foo">T</a>
-		</li>
-		
-		<li>
-				<a href="/projects/u/?search=foo">U</a>
-		</li>
-		
-		<li>
-				<a href="/projects/v/?search=foo">V</a>
-		</li>
-		
-		<li>
-				<a href="/projects/w/?search=foo">W</a>
-		</li>
-		
-		<li>
-				<a href="/projects/x/?search=foo">X</a>
-		</li>
-		
-		<li>
-				<a href="/projects/y/?search=foo">Y</a>
-		</li>
-		
-		<li>
-				<a href="/projects/z/?search=foo">Z</a>
-		</li>
-		
-
-		
-		<li>
-		
-			<a href="/projects/pkg_foofoo_/?search=foo" rel="next">&raquo;</a>
-		
-		</li>
+		<li><a href="/projects/a/?search=foo">A</a></li>
+		<li><a href="/projects/b/?search=foo">B</a></li>
+		<li><a href="/projects/c/?search=foo">C</a></li>
+		<li><a href="/projects/d/?search=foo">D</a></li>
+		<li><a href="/projects/e/?search=foo">E</a></li>
+		<li><a href="/projects/f/?search=foo">F</a></li>
+		<li><a href="/projects/g/?search=foo">G</a></li>
+		<li><a href="/projects/h/?search=foo">H</a></li>
+		<li><a href="/projects/i/?search=foo">I</a></li>
+		<li><a href="/projects/j/?search=foo">J</a></li>
+		<li><a href="/projects/k/?search=foo">K</a></li>
+		<li><a href="/projects/l/?search=foo">L</a></li>
+		<li><a href="/projects/m/?search=foo">M</a></li>
+		<li><a href="/projects/n/?search=foo">N</a></li>
+		<li><a href="/projects/o/?search=foo">O</a></li>
+		<li class="active"><a href="/projects/p/?search=foo">P</a></li>
+		<li><a href="/projects/q/?search=foo">Q</a></li>
+		<li><a href="/projects/r/?search=foo">R</a></li>
+		<li><a href="/projects/s/?search=foo">S</a></li>
+		<li><a href="/projects/t/?search=foo">T</a></li>
+		<li><a href="/projects/u/?search=foo">U</a></li>
+		<li><a href="/projects/v/?search=foo">V</a></li>
+		<li><a href="/projects/w/?search=foo">W</a></li>
+		<li><a href="/projects/x/?search=foo">X</a></li>
+		<li><a href="/projects/y/?search=foo">Y</a></li>
+		<li><a href="/projects/z/?search=foo">Z</a></li>
+		<li><a href="/projects/pkg_foofoo_/?search=foo" rel="next">&raquo;</a></li>
 	</ul>
 </nav>
 
@@ -351,125 +261,35 @@ Header: content-length: 13946
 
 <nav>
 	<ul class="pagination">
-		
-		<li>
-		
-			<a href="/projects/..pkg_foofoo_/?search=foo" rel="prev">&laquo;</a>
-		
-		</li>
+		<li><a href="/projects/..pkg_foofoo_/?search=foo" rel="prev">&laquo;</a></li>
 		<li><a href="/projects/?search=foo">0-9</a></li>
-		
-		<li>
-				<a href="/projects/a/?search=foo">A</a>
-		</li>
-		
-		<li>
-				<a href="/projects/b/?search=foo">B</a>
-		</li>
-		
-		<li>
-				<a href="/projects/c/?search=foo">C</a>
-		</li>
-		
-		<li>
-				<a href="/projects/d/?search=foo">D</a>
-		</li>
-		
-		<li>
-				<a href="/projects/e/?search=foo">E</a>
-		</li>
-		
-		<li>
-				<a href="/projects/f/?search=foo">F</a>
-		</li>
-		
-		<li>
-				<a href="/projects/g/?search=foo">G</a>
-		</li>
-		
-		<li>
-				<a href="/projects/h/?search=foo">H</a>
-		</li>
-		
-		<li>
-				<a href="/projects/i/?search=foo">I</a>
-		</li>
-		
-		<li>
-				<a href="/projects/j/?search=foo">J</a>
-		</li>
-		
-		<li>
-				<a href="/projects/k/?search=foo">K</a>
-		</li>
-		
-		<li>
-				<a href="/projects/l/?search=foo">L</a>
-		</li>
-		
-		<li>
-				<a href="/projects/m/?search=foo">M</a>
-		</li>
-		
-		<li>
-				<a href="/projects/n/?search=foo">N</a>
-		</li>
-		
-		<li>
-				<a href="/projects/o/?search=foo">O</a>
-		</li>
-		
-		<li class="active">
-				<a href="/projects/p/?search=foo">P</a>
-		</li>
-		
-		<li>
-				<a href="/projects/q/?search=foo">Q</a>
-		</li>
-		
-		<li>
-				<a href="/projects/r/?search=foo">R</a>
-		</li>
-		
-		<li>
-				<a href="/projects/s/?search=foo">S</a>
-		</li>
-		
-		<li>
-				<a href="/projects/t/?search=foo">T</a>
-		</li>
-		
-		<li>
-				<a href="/projects/u/?search=foo">U</a>
-		</li>
-		
-		<li>
-				<a href="/projects/v/?search=foo">V</a>
-		</li>
-		
-		<li>
-				<a href="/projects/w/?search=foo">W</a>
-		</li>
-		
-		<li>
-				<a href="/projects/x/?search=foo">X</a>
-		</li>
-		
-		<li>
-				<a href="/projects/y/?search=foo">Y</a>
-		</li>
-		
-		<li>
-				<a href="/projects/z/?search=foo">Z</a>
-		</li>
-		
-
-		
-		<li>
-		
-			<a href="/projects/pkg_foofoo_/?search=foo" rel="next">&raquo;</a>
-		
-		</li>
+		<li><a href="/projects/a/?search=foo">A</a></li>
+		<li><a href="/projects/b/?search=foo">B</a></li>
+		<li><a href="/projects/c/?search=foo">C</a></li>
+		<li><a href="/projects/d/?search=foo">D</a></li>
+		<li><a href="/projects/e/?search=foo">E</a></li>
+		<li><a href="/projects/f/?search=foo">F</a></li>
+		<li><a href="/projects/g/?search=foo">G</a></li>
+		<li><a href="/projects/h/?search=foo">H</a></li>
+		<li><a href="/projects/i/?search=foo">I</a></li>
+		<li><a href="/projects/j/?search=foo">J</a></li>
+		<li><a href="/projects/k/?search=foo">K</a></li>
+		<li><a href="/projects/l/?search=foo">L</a></li>
+		<li><a href="/projects/m/?search=foo">M</a></li>
+		<li><a href="/projects/n/?search=foo">N</a></li>
+		<li><a href="/projects/o/?search=foo">O</a></li>
+		<li class="active"><a href="/projects/p/?search=foo">P</a></li>
+		<li><a href="/projects/q/?search=foo">Q</a></li>
+		<li><a href="/projects/r/?search=foo">R</a></li>
+		<li><a href="/projects/s/?search=foo">S</a></li>
+		<li><a href="/projects/t/?search=foo">T</a></li>
+		<li><a href="/projects/u/?search=foo">U</a></li>
+		<li><a href="/projects/v/?search=foo">V</a></li>
+		<li><a href="/projects/w/?search=foo">W</a></li>
+		<li><a href="/projects/x/?search=foo">X</a></li>
+		<li><a href="/projects/y/?search=foo">Y</a></li>
+		<li><a href="/projects/z/?search=foo">Z</a></li>
+		<li><a href="/projects/pkg_foofoo_/?search=foo" rel="next">&raquo;</a></li>
 	</ul>
 </nav>
 

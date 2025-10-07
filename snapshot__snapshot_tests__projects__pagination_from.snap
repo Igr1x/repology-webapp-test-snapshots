@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 13305
+Header: content-length: 12661
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -189,125 +189,35 @@ Header: content-length: 13305
 
 <nav>
 	<ul class="pagination">
-		
-		<li>
-		
-			<a href="/projects/..pkg_foofoo_/" rel="prev">&laquo;</a>
-		
-		</li>
+		<li><a href="/projects/..pkg_foofoo_/" rel="prev">&laquo;</a></li>
 		<li><a href="/projects/">0-9</a></li>
-		
-		<li>
-				<a href="/projects/a/">A</a>
-		</li>
-		
-		<li>
-				<a href="/projects/b/">B</a>
-		</li>
-		
-		<li>
-				<a href="/projects/c/">C</a>
-		</li>
-		
-		<li>
-				<a href="/projects/d/">D</a>
-		</li>
-		
-		<li>
-				<a href="/projects/e/">E</a>
-		</li>
-		
-		<li>
-				<a href="/projects/f/">F</a>
-		</li>
-		
-		<li>
-				<a href="/projects/g/">G</a>
-		</li>
-		
-		<li>
-				<a href="/projects/h/">H</a>
-		</li>
-		
-		<li>
-				<a href="/projects/i/">I</a>
-		</li>
-		
-		<li>
-				<a href="/projects/j/">J</a>
-		</li>
-		
-		<li>
-				<a href="/projects/k/">K</a>
-		</li>
-		
-		<li>
-				<a href="/projects/l/">L</a>
-		</li>
-		
-		<li>
-				<a href="/projects/m/">M</a>
-		</li>
-		
-		<li>
-				<a href="/projects/n/">N</a>
-		</li>
-		
-		<li>
-				<a href="/projects/o/">O</a>
-		</li>
-		
-		<li class="active">
-				<a href="/projects/p/">P</a>
-		</li>
-		
-		<li>
-				<a href="/projects/q/">Q</a>
-		</li>
-		
-		<li>
-				<a href="/projects/r/">R</a>
-		</li>
-		
-		<li>
-				<a href="/projects/s/">S</a>
-		</li>
-		
-		<li>
-				<a href="/projects/t/">T</a>
-		</li>
-		
-		<li>
-				<a href="/projects/u/">U</a>
-		</li>
-		
-		<li>
-				<a href="/projects/v/">V</a>
-		</li>
-		
-		<li>
-				<a href="/projects/w/">W</a>
-		</li>
-		
-		<li>
-				<a href="/projects/x/">X</a>
-		</li>
-		
-		<li>
-				<a href="/projects/y/">Y</a>
-		</li>
-		
-		<li>
-				<a href="/projects/z/">Z</a>
-		</li>
-		
-
-		
-		<li>
-		
-			<a href="/projects/pkg_foofoo_/" rel="next">&raquo;</a>
-		
-		</li>
+		<li><a href="/projects/a/">A</a></li>
+		<li><a href="/projects/b/">B</a></li>
+		<li><a href="/projects/c/">C</a></li>
+		<li><a href="/projects/d/">D</a></li>
+		<li><a href="/projects/e/">E</a></li>
+		<li><a href="/projects/f/">F</a></li>
+		<li><a href="/projects/g/">G</a></li>
+		<li><a href="/projects/h/">H</a></li>
+		<li><a href="/projects/i/">I</a></li>
+		<li><a href="/projects/j/">J</a></li>
+		<li><a href="/projects/k/">K</a></li>
+		<li><a href="/projects/l/">L</a></li>
+		<li><a href="/projects/m/">M</a></li>
+		<li><a href="/projects/n/">N</a></li>
+		<li><a href="/projects/o/">O</a></li>
+		<li class="active"><a href="/projects/p/">P</a></li>
+		<li><a href="/projects/q/">Q</a></li>
+		<li><a href="/projects/r/">R</a></li>
+		<li><a href="/projects/s/">S</a></li>
+		<li><a href="/projects/t/">T</a></li>
+		<li><a href="/projects/u/">U</a></li>
+		<li><a href="/projects/v/">V</a></li>
+		<li><a href="/projects/w/">W</a></li>
+		<li><a href="/projects/x/">X</a></li>
+		<li><a href="/projects/y/">Y</a></li>
+		<li><a href="/projects/z/">Z</a></li>
+		<li><a href="/projects/pkg_foofoo_/" rel="next">&raquo;</a></li>
 	</ul>
 </nav>
 
@@ -351,125 +261,35 @@ Header: content-length: 13305
 
 <nav>
 	<ul class="pagination">
-		
-		<li>
-		
-			<a href="/projects/..pkg_foofoo_/" rel="prev">&laquo;</a>
-		
-		</li>
+		<li><a href="/projects/..pkg_foofoo_/" rel="prev">&laquo;</a></li>
 		<li><a href="/projects/">0-9</a></li>
-		
-		<li>
-				<a href="/projects/a/">A</a>
-		</li>
-		
-		<li>
-				<a href="/projects/b/">B</a>
-		</li>
-		
-		<li>
-				<a href="/projects/c/">C</a>
-		</li>
-		
-		<li>
-				<a href="/projects/d/">D</a>
-		</li>
-		
-		<li>
-				<a href="/projects/e/">E</a>
-		</li>
-		
-		<li>
-				<a href="/projects/f/">F</a>
-		</li>
-		
-		<li>
-				<a href="/projects/g/">G</a>
-		</li>
-		
-		<li>
-				<a href="/projects/h/">H</a>
-		</li>
-		
-		<li>
-				<a href="/projects/i/">I</a>
-		</li>
-		
-		<li>
-				<a href="/projects/j/">J</a>
-		</li>
-		
-		<li>
-				<a href="/projects/k/">K</a>
-		</li>
-		
-		<li>
-				<a href="/projects/l/">L</a>
-		</li>
-		
-		<li>
-				<a href="/projects/m/">M</a>
-		</li>
-		
-		<li>
-				<a href="/projects/n/">N</a>
-		</li>
-		
-		<li>
-				<a href="/projects/o/">O</a>
-		</li>
-		
-		<li class="active">
-				<a href="/projects/p/">P</a>
-		</li>
-		
-		<li>
-				<a href="/projects/q/">Q</a>
-		</li>
-		
-		<li>
-				<a href="/projects/r/">R</a>
-		</li>
-		
-		<li>
-				<a href="/projects/s/">S</a>
-		</li>
-		
-		<li>
-				<a href="/projects/t/">T</a>
-		</li>
-		
-		<li>
-				<a href="/projects/u/">U</a>
-		</li>
-		
-		<li>
-				<a href="/projects/v/">V</a>
-		</li>
-		
-		<li>
-				<a href="/projects/w/">W</a>
-		</li>
-		
-		<li>
-				<a href="/projects/x/">X</a>
-		</li>
-		
-		<li>
-				<a href="/projects/y/">Y</a>
-		</li>
-		
-		<li>
-				<a href="/projects/z/">Z</a>
-		</li>
-		
-
-		
-		<li>
-		
-			<a href="/projects/pkg_foofoo_/" rel="next">&raquo;</a>
-		
-		</li>
+		<li><a href="/projects/a/">A</a></li>
+		<li><a href="/projects/b/">B</a></li>
+		<li><a href="/projects/c/">C</a></li>
+		<li><a href="/projects/d/">D</a></li>
+		<li><a href="/projects/e/">E</a></li>
+		<li><a href="/projects/f/">F</a></li>
+		<li><a href="/projects/g/">G</a></li>
+		<li><a href="/projects/h/">H</a></li>
+		<li><a href="/projects/i/">I</a></li>
+		<li><a href="/projects/j/">J</a></li>
+		<li><a href="/projects/k/">K</a></li>
+		<li><a href="/projects/l/">L</a></li>
+		<li><a href="/projects/m/">M</a></li>
+		<li><a href="/projects/n/">N</a></li>
+		<li><a href="/projects/o/">O</a></li>
+		<li class="active"><a href="/projects/p/">P</a></li>
+		<li><a href="/projects/q/">Q</a></li>
+		<li><a href="/projects/r/">R</a></li>
+		<li><a href="/projects/s/">S</a></li>
+		<li><a href="/projects/t/">T</a></li>
+		<li><a href="/projects/u/">U</a></li>
+		<li><a href="/projects/v/">V</a></li>
+		<li><a href="/projects/w/">W</a></li>
+		<li><a href="/projects/x/">X</a></li>
+		<li><a href="/projects/y/">Y</a></li>
+		<li><a href="/projects/z/">Z</a></li>
+		<li><a href="/projects/pkg_foofoo_/" rel="next">&raquo;</a></li>
 	</ul>
 </nav>
 
