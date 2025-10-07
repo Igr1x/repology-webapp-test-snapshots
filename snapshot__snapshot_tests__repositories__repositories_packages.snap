@@ -1,11 +1,10 @@
 ---
 source: repology-webapp/tests/snapshot_tests/repositories.rs
 expression: response.as_snapshot().unwrap()
-snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 10688
+Header: content-length: 10680
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -138,7 +137,7 @@ Header: content-length: 10688
 				<a href="/repository/freebsd">FreeBSD</a>
 			</th>
 
-			<td class="text-center"><span title="12345">12.3k</span></td>
+			<td class="text-center"><span title="12345">12k</span></td>
 
 			<td class="text-center version-cell version-big version-newest">0</td>
 			<td class="text-center version-cell version-big version-devel">0</td>
@@ -160,7 +159,7 @@ Header: content-length: 10688
 				<a href="/repository/freshcode">freshcode.club</a>
 			</th>
 
-			<td class="text-center"><span title="12345">12.3k</span></td>
+			<td class="text-center"><span title="12345">12k</span></td>
 
 			<td class="text-center version-cell version-big version-newest">0</td>
 			<td class="text-center version-cell version-big version-devel">0</td>
@@ -182,7 +181,7 @@ Header: content-length: 10688
 				<a href="/repository/ubuntu_12">Ubuntu 12</a>
 			</th>
 
-			<td class="text-center"><span title="12345">12.3k</span></td>
+			<td class="text-center"><span title="12345">12k</span></td>
 
 			<td class="text-center version-cell version-big version-newest">0</td>
 			<td class="text-center version-cell version-big version-devel">0</td>
@@ -204,7 +203,7 @@ Header: content-length: 10688
 				<a href="/repository/ubuntu_24">Ubuntu 24</a>
 			</th>
 
-			<td class="text-center"><span title="12345">12.3k</span></td>
+			<td class="text-center"><span title="12345">12k</span></td>
 
 			<td class="text-center version-cell version-big version-newest">0</td>
 			<td class="text-center version-cell version-big version-devel">0</td>
