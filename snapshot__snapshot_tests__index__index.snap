@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 15252
+Header: content-length: 15251
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -336,7 +336,6 @@ Header: content-length: 15252
 
 		
 <div class="alert alert-warning" role="alert">No projects found matching the criteria</div>
-
 	</section>
 
 	<section>
