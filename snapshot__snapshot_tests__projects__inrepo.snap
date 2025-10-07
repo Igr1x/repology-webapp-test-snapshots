@@ -5,7 +5,7 @@ snapshot_kind: text
 ---
 Status: 200
 Header: content-type: text/html
-Header: content-length: 15988
+Header: content-length: 15928
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -104,15 +104,10 @@ Header: content-length: 15988
 				<div class="col-sm-8">
 					<select class="form-control" id="inrepo" name="inrepo">
 						<option value="">-</option>
-					
 						<option value="freebsd">FreeBSD</option>
-					
 						<option value="freshcode">freshcode.club</option>
-					
 						<option value="ubuntu_12" selected>Ubuntu 12</option>
-					
 						<option value="ubuntu_24">Ubuntu 24</option>
-					
 					</select>
 				</div>
 			</div>
@@ -121,15 +116,10 @@ Header: content-length: 15988
 				<div class="col-sm-8">
 					<select class="form-control" id="notinrepo" name="notinrepo">
 						<option value="">-</option>
-					
 						<option value="freebsd">FreeBSD</option>
-					
 						<option value="freshcode">freshcode.club</option>
-					
 						<option value="ubuntu_12">Ubuntu 12</option>
-					
 						<option value="ubuntu_24">Ubuntu 24</option>
-					
 					</select>
 				</div>
 			</div>
